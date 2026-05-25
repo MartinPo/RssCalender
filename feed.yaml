@@ -6,93 +6,51 @@
     <description>Automatisch generierte Event-Liste für Ulm und Umgebung</description>
 
     <item>
-      <title>Between the Bars - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/btb3.html</link>
-      <pubDate>Thu, 26 Mar 2026 20:00:00 +0100</pubDate>
-      <description>Bar Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Gobilove - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/gobilove.html</link>
-      <pubDate>Sat, 28 Mar 2026 20:00:00 +0100</pubDate>
-      <description>Live Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Jazz Jam - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/jam3.html</link>
-      <pubDate>Thu, 16 Apr 2026 20:00:00 +0200</pubDate>
-      <description>Jam Session im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Unter Schock - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/unterschock.html</link>
-      <pubDate>Thu, 23 Apr 2026 20:00:00 +0200</pubDate>
-      <description>Live Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Madhouse Express - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/madhouseexpress.html</link>
-      <pubDate>Fri, 24 Apr 2026 20:00:00 +0200</pubDate>
-      <description>Live Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Let's Dance - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/letsdance2.html</link>
-      <pubDate>Sat, 25 Apr 2026 22:00:00 +0200</pubDate>
-      <description>DJ Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Beatclub - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/beatclub3.html</link>
-      <pubDate>Thu, 30 Apr 2026 20:00:00 +0200</pubDate>
-      <description>DJ Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Jazz In Time - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/jazzintime2.html</link>
-      <pubDate>Thu, 07 May 2026 20:00:00 +0200</pubDate>
-      <description>Jazz Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Lilac Attitude - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/lilacattitude.html</link>
-      <pubDate>Fri, 08 May 2026 20:00:00 +0200</pubDate>
-      <description>Live Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>KISS Queerclubbing - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/kiss3.html</link>
-      <pubDate>Sat, 09 May 2026 22:00:00 +0200</pubDate>
-      <description>DJ Event im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
-      <title>Stina Holmquist - Das Gold Neu-Ulm</title>
-      <link>https://dasgold.org/stinaholmquist.html</link>
-      <pubDate>Fri, 16 May 2026 20:00:00 +0200</pubDate>
-      <description>Live Konzert von Stina Holmquist aus Duisburg im Das Gold, Neu-Ulm</description>
-    </item>
-
-    <item>
       <title>KRAAN - Ulmer Zelt</title>
-      <link>https://www.hinterland-rocks.de/</link>
+      <link>https://ulmerzelt.de/</link>
       <pubDate>Mon, 25 May 2026 19:00:00 +0200</pubDate>
       <description>Heimspiel der Ulmer Jazzrock-Formation KRAAN beim Ulmer Zelt - 55 Jahre nach Bandgründung präsentieren sie ihr neues Album "All In"</description>
     </item>
 
     <item>
+      <title>Radio 7 Sunset Beats</title>
+      <link>https://www.radio7.de/radio-7-sunset-beats</link>
+      <pubDate>Wed, 28 May 2026 17:00:00 +0200</pubDate>
+      <description>Lockere Beats, entspannte Atmosphäre und jede Menge Good Vibes bei den RADIO 7 SUNSET BEATS</description>
+    </item>
+
+    <item>
+      <title>Suzan Köcher's Suprafon - Aegis Cafe Ulm</title>
+      <link>https://www.yesticket.org/event/de/suzan-koecher-band-29-05-26/</link>
+      <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
+      <description>Konzert von Suzan Köcher's Suprafon aus Solingen im Aegis Cafe Ulm</description>
+    </item>
+
+    <item>
+      <title>Volleyball: Deutschland vs. Frankreich - Ratiopharm Arena Neu-Ulm</title>
+      <link>https://www.radio7.de/volleyball-deutschland-vs-frankreich</link>
+      <pubDate>Fri, 30 May 2026 17:00:00 +0200</pubDate>
+      <description>Die Volleyball Nationalmannschaft Deutschland empfängt Olympiasieger Frankreich in der Ratiopharm Arena Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Jazz Jam Session - Aegis Cafe Ulm</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <pubDate>Tue, 02 Jun 2026 19:30:00 +0200</pubDate>
+      <description>Die Jazzer der Region treffen sich zur Jam-Session im Aegis Cafe Ulm</description>
+    </item>
+
+    <item>
+      <title>Aegis Jazz Brunch mit Traces of an Echo</title>
+      <link>https://www.yesticket.org/event/de/aegis-jazz-brunch-live-jazz-mit-traces-of-an-echo-14-06-26/</link>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 +0200</pubDate>
+      <description>Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!</description>
+    </item>
+
+    <item>
       <title>GET WELL SOON - Ulmer Zelt</title>
-      <link>https://www.hinterland-rocks.de/</link>
-      <pubDate>Fri, 20 Jun 2026 20:00:00 +0200</pubDate>
+      <link>https://ulmerzelt.de/</link>
+      <pubDate>Sat, 20 Jun 2026 20:00:00 +0200</pubDate>
       <description>Konstantin Gropper mit seinem Projekt GET WELL SOON beim Ulmer Zelt</description>
     </item>
 
@@ -101,6 +59,62 @@
       <link>https://www.hinterland-rocks.de/</link>
       <pubDate>Sun, 28 Jun 2026 19:00:00 +0200</pubDate>
       <description>Die legendäre Rockband DEEP PURPLE beim Klosterhof Open Air im Ulmer Teilort Wiblingen</description>
+    </item>
+
+    <item>
+      <title>Jazz Jam Session - Aegis Cafe Ulm</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <pubDate>Sat, 04 Jul 2026 19:30:00 +0200</pubDate>
+      <description>Die Jazzer der Region treffen sich zur Jam-Session im Aegis Cafe Ulm</description>
+    </item>
+
+    <item>
+      <title>Schwörmontag Konzert Brassmaniacs - Aegis Cafe Ulm</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <pubDate>Mon, 20 Jul 2026 16:00:00 +0200</pubDate>
+      <description>Brassmaniacs - die Funk, Jazz, Hip-Hop, Soul und Pop-Band aus Ulm mit Special Guests Ceedub und Afande. Eintritt frei!</description>
+    </item>
+
+    <item>
+      <title>Aegis Jazz Brunch mit Traces of an Echo</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 +0200</pubDate>
+      <description>Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!</description>
+    </item>
+
+    <item>
+      <title>Frau Lehmann - Aegis Cafe Ulm</title>
+      <link>https://www.yesticket.org/event/de/frau-lehmann-leipzig-25-09-26/</link>
+      <pubDate>Fri, 25 Sep 2026 19:30:00 +0200</pubDate>
+      <description>Konzert von Frau Lehmann aus Leipzig im Aegis Cafe Ulm. VVK 20€/18€</description>
+    </item>
+
+    <item>
+      <title>Das Format - Aegis Cafe Ulm</title>
+      <link>https://www.yesticket.org/event/de/das-format-09-10-26/</link>
+      <pubDate>Fri, 09 Oct 2026 19:30:00 +0200</pubDate>
+      <description>Das Format aus Augsburg - Postpunk mit Noisewellen. Zwischen Idles und Fontaines DC. VVK 18€/16€</description>
+    </item>
+
+    <item>
+      <title>Aegis Jazz Brunch mit Traces of an Echo</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <pubDate>Sun, 11 Oct 2026 10:00:00 +0200</pubDate>
+      <description>Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!</description>
+    </item>
+
+    <item>
+      <title>Ansa Sauermann - Aegis Cafe Ulm</title>
+      <link>https://www.yesticket.org/event/de/ansa-sauermann-live-in-concert-19-11-26/</link>
+      <pubDate>Thu, 19 Nov 2026 19:30:00 +0100</pubDate>
+      <description>Ansa Sauermann live in Concert mit seinem neuen Album "Gehts noch". VVK 20€/18€</description>
+    </item>
+
+    <item>
+      <title>Low key orchestra - Aegis Cafe Ulm</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <pubDate>Sat, 05 Dec 2026 19:30:00 +0100</pubDate>
+      <description>Low key orchestra - neues Bandprojekt von Sönke Torpus (Torpus &amp; the Art Directors) mit Indie-Folk. VVK 18€/16€</description>
     </item>
 
   </channel>
