@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Meine Events</title>
+    <link>https://github.com/MartinPo/RssCalender/events-rss</link>
+    <description>Automatisch generierte Event-Liste</description>
+
+    <item>
+      <title>Event 1</title>
+      <link>https://example.com/event1</link>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0200</pubDate>
+      <description>Beschreibung des Events</description>
+    </item>
+
+  </channel>
+</rss>

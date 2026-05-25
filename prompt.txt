@@ -1,0 +1,6 @@
+scan following urls:
+https://dasgold.org/concerts.html
+https://www.hinterland-rocks.de/
+https://www.facebook.com/people/Kradhalle/100057501668062/
+
+create from that an list of events around ulm
