@@ -5,7 +5,7 @@
     <link>https://github.com/MartinPo/RssCalender</link>
     <description>Automatisch generierte Event-Liste für Ulm und Umgebung</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 25 May 2026 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2026 18:00:00 +0200</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/MartinPo/RssCalender/main/feed.yaml" rel="self" type="application/rss+xml" />
 
     <item>
@@ -14,6 +14,14 @@
       <guid isPermaLink="false">ulm-event-2026-05-25-kraan</guid>
       <pubDate>Mon, 25 May 2026 19:00:00 +0200</pubDate>
       <description>Heimspiel der Ulmer Jazzrock-Formation KRAAN beim Ulmer Zelt - 55 Jahre nach Bandgründung präsentieren sie ihr neues Album "All In"</description>
+    </item>
+
+    <item>
+      <title>Les Tambours du Bronx - Ulmer Zelt</title>
+      <link>https://ulmerzelt.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-05-27-tambours</guid>
+      <pubDate>Tue, 27 May 2026 20:00:00 +0200</pubDate>
+      <description>Die Trommler von Les Tambours du Bronx lassen das Zelt mit ihren Metallfässern erbeben</description>
     </item>
 
     <item>
@@ -49,6 +57,38 @@
     </item>
 
     <item>
+      <title>Heather Nova - Ulmer Zelt</title>
+      <link>https://ulmerzelt.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-06-03-heather-nova</guid>
+      <pubDate>Tue, 03 Jun 2026 20:00:00 +0200</pubDate>
+      <description>Singer/Songwriterin Heather Nova beim Ulmer Zelt</description>
+    </item>
+
+    <item>
+      <title>Tchotchke - Aegis Cafe Ulm</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-06-04-tchotchke</guid>
+      <pubDate>Thu, 04 Jun 2026 19:30:00 +0200</pubDate>
+      <description>Tchotchke aus New York live im Aegis Cafe Ulm</description>
+    </item>
+
+    <item>
+      <title>Mediterrane Weltmusik - Aegis Cafe Ulm</title>
+      <link>https://aegis-literatur.buchhandlung.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-06-04-weltmusik</guid>
+      <pubDate>Thu, 04 Jun 2026 20:30:00 +0200</pubDate>
+      <description>Trio Rachid Benachour, Salvatore La Ferrera – Meister des Akkordeons und Silvio Herrera mit mediterraner Weltmusik</description>
+    </item>
+
+    <item>
+      <title>Robert Cray - Ulmer Zelt</title>
+      <link>https://ulmerzelt.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-06-05-robert-cray</guid>
+      <pubDate>Fri, 05 Jun 2026 20:00:00 +0200</pubDate>
+      <description>US-Blueser Robert Cray und seine Band beim Ulmer Zelt</description>
+    </item>
+
+    <item>
       <title>Aegis Jazz Brunch mit Traces of an Echo</title>
       <link>https://www.yesticket.org/event/de/aegis-jazz-brunch-live-jazz-mit-traces-of-an-echo-14-06-26/</link>
       <guid isPermaLink="false">ulm-event-2026-06-14-jazz-brunch</guid>
@@ -65,11 +105,27 @@
     </item>
 
     <item>
+      <title>Tankus - Ulmer Zelt</title>
+      <link>https://ulmerzelt.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-06-26-tankus</guid>
+      <pubDate>Fri, 26 Jun 2026 20:00:00 +0200</pubDate>
+      <description>Die Londoner Band Tankus um Sänger Jaz Delorean mit swingenden Mix aus Funk, Rock und Reggae beim Ulmer Zelt</description>
+    </item>
+
+    <item>
       <title>DEEP PURPLE - Klosterhof Open Air Ulm-Wiblingen</title>
       <link>https://www.hinterland-rocks.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-28-deep-purple</guid>
       <pubDate>Sun, 28 Jun 2026 19:00:00 +0200</pubDate>
       <description>Die legendäre Rockband DEEP PURPLE beim Klosterhof Open Air im Ulmer Teilort Wiblingen</description>
+    </item>
+
+    <item>
+      <title>Colosseum feat. Chris Farlowe - Ulmer Zelt</title>
+      <link>https://ulmerzelt.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-07-01-colosseum</guid>
+      <pubDate>Wed, 01 Jul 2026 20:00:00 +0200</pubDate>
+      <description>Die Jazzrock-Legende Colosseum mit Ausnahmesänger Chris Farlowe beim Ulmer Zelt</description>
     </item>
 
     <item>
@@ -86,6 +142,14 @@
       <guid isPermaLink="false">ulm-event-2026-07-20-brassmaniacs</guid>
       <pubDate>Mon, 20 Jul 2026 16:00:00 +0200</pubDate>
       <description>Brassmaniacs - die Funk, Jazz, Hip-Hop, Soul und Pop-Band aus Ulm mit Special Guests Ceedub und Afande. Eintritt frei!</description>
+    </item>
+
+    <item>
+      <title>Obstwiesenfestival - Dornstadt bei Ulm</title>
+      <link>https://obstwiesenfestival.de/</link>
+      <guid isPermaLink="false">ulm-event-2026-08-20-obstwiesenfestival</guid>
+      <pubDate>Wed, 20 Aug 2026 14:00:00 +0200</pubDate>
+      <description>Umsonst &amp; Draußen Festival vom 20.-22. August mit Maxïmo Park, Bibiza, Orbit, Itchy, Fatoni, Ok.Danke.Tschüss, Big Special, Battlesnake, Easy Easy, Master Peace, Bikini Beach und vielen mehr</description>
     </item>
 
     <item>
