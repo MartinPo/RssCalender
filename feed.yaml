@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events rund um Ulm</title>
-    <link>https://github.com/MartinPo/RssCalender/events-rss</link>
+    <link>https://github.com/MartinPo/RssCalender</link>
     <description>Automatisch generierte Event-Liste für Ulm und Umgebung</description>
     <language>de-DE</language>
     <lastBuildDate>Sun, 25 May 2026 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://github.com/MartinPo/RssCalender/feed.yaml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/MartinPo/RssCalender/main/feed.yaml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>KRAAN - Ulmer Zelt</title>
