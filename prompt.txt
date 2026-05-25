@@ -3,4 +3,9 @@ https://dasgold.org/concerts.html
 https://www.hinterland-rocks.de/
 https://www.facebook.com/people/Kradhalle/100057501668062/
 
-create from that an list of events around ulm
+create from that an list of events around ulm and refresh feed.yaml with that data.
+if facebook is not readable. look for ulm kradhalle events.
+
+https://www.radio7.de/zuhause/veranstaltungen
+https://ulmerzelt.de/
+https://donaufest.de/

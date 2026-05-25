@@ -1,15 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Meine Events</title>
+    <title>Events rund um Ulm</title>
     <link>https://github.com/MartinPo/RssCalender/events-rss</link>
-    <description>Automatisch generierte Event-Liste</description>
+    <description>Automatisch generierte Event-Liste für Ulm und Umgebung</description>
 
     <item>
-      <title>Event 1</title>
-      <link>https://example.com/event1</link>
-      <pubDate>Mon, 25 May 2026 12:00:00 +0200</pubDate>
-      <description>Beschreibung des Events</description>
+      <title>Between the Bars - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/btb3.html</link>
+      <pubDate>Thu, 26 Mar 2026 20:00:00 +0100</pubDate>
+      <description>Bar Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Gobilove - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/gobilove.html</link>
+      <pubDate>Sat, 28 Mar 2026 20:00:00 +0100</pubDate>
+      <description>Live Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Jazz Jam - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/jam3.html</link>
+      <pubDate>Thu, 16 Apr 2026 20:00:00 +0200</pubDate>
+      <description>Jam Session im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Unter Schock - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/unterschock.html</link>
+      <pubDate>Thu, 23 Apr 2026 20:00:00 +0200</pubDate>
+      <description>Live Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Madhouse Express - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/madhouseexpress.html</link>
+      <pubDate>Fri, 24 Apr 2026 20:00:00 +0200</pubDate>
+      <description>Live Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Let's Dance - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/letsdance2.html</link>
+      <pubDate>Sat, 25 Apr 2026 22:00:00 +0200</pubDate>
+      <description>DJ Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Beatclub - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/beatclub3.html</link>
+      <pubDate>Thu, 30 Apr 2026 20:00:00 +0200</pubDate>
+      <description>DJ Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Jazz In Time - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/jazzintime2.html</link>
+      <pubDate>Thu, 07 May 2026 20:00:00 +0200</pubDate>
+      <description>Jazz Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Lilac Attitude - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/lilacattitude.html</link>
+      <pubDate>Fri, 08 May 2026 20:00:00 +0200</pubDate>
+      <description>Live Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>KISS Queerclubbing - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/kiss3.html</link>
+      <pubDate>Sat, 09 May 2026 22:00:00 +0200</pubDate>
+      <description>DJ Event im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>Stina Holmquist - Das Gold Neu-Ulm</title>
+      <link>https://dasgold.org/stinaholmquist.html</link>
+      <pubDate>Fri, 16 May 2026 20:00:00 +0200</pubDate>
+      <description>Live Konzert von Stina Holmquist aus Duisburg im Das Gold, Neu-Ulm</description>
+    </item>
+
+    <item>
+      <title>KRAAN - Ulmer Zelt</title>
+      <link>https://www.hinterland-rocks.de/</link>
+      <pubDate>Mon, 25 May 2026 19:00:00 +0200</pubDate>
+      <description>Heimspiel der Ulmer Jazzrock-Formation KRAAN beim Ulmer Zelt - 55 Jahre nach Bandgründung präsentieren sie ihr neues Album "All In"</description>
+    </item>
+
+    <item>
+      <title>GET WELL SOON - Ulmer Zelt</title>
+      <link>https://www.hinterland-rocks.de/</link>
+      <pubDate>Fri, 20 Jun 2026 20:00:00 +0200</pubDate>
+      <description>Konstantin Gropper mit seinem Projekt GET WELL SOON beim Ulmer Zelt</description>
+    </item>
+
+    <item>
+      <title>DEEP PURPLE - Klosterhof Open Air Ulm-Wiblingen</title>
+      <link>https://www.hinterland-rocks.de/</link>
+      <pubDate>Sun, 28 Jun 2026 19:00:00 +0200</pubDate>
+      <description>Die legendäre Rockband DEEP PURPLE beim Klosterhof Open Air im Ulmer Teilort Wiblingen</description>
     </item>
 
   </channel>
