@@ -1,203 +1,200 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>Events rund um Ulm</title>
     <link>https://github.com/MartinPo/RssCalender</link>
     <description>Automatisch generierte Event-Liste für Ulm und Umgebung</description>
-    <language>de-DE</language>
-    <lastBuildDate>Sun, 25 May 2026 18:00:00 +0200</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/MartinPo/RssCalender/main/feed.yaml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>KRAAN - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-05-25-kraan</guid>
-      <pubDate>Mon, 25 May 2026 19:00:00 +0200</pubDate>
       <description>Heimspiel der Ulmer Jazzrock-Formation KRAAN beim Ulmer Zelt - 55 Jahre nach Bandgründung präsentieren sie ihr neues Album "All In"</description>
+      <pubDate>Mon, 25 May 2026 19:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Les Tambours du Bronx - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-05-27-tambours</guid>
-      <pubDate>Tue, 27 May 2026 20:00:00 +0200</pubDate>
       <description>Die Trommler von Les Tambours du Bronx lassen das Zelt mit ihren Metallfässern erbeben</description>
+      <pubDate>Tue, 27 May 2026 20:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Radio 7 Sunset Beats</title>
       <link>https://www.radio7.de/radio-7-sunset-beats</link>
       <guid isPermaLink="false">ulm-event-2026-05-28-radio7-sunset</guid>
-      <pubDate>Wed, 28 May 2026 17:00:00 +0200</pubDate>
       <description>Lockere Beats, entspannte Atmosphäre und jede Menge Good Vibes bei den RADIO 7 SUNSET BEATS</description>
+      <pubDate>Wed, 28 May 2026 17:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Suzan Köcher's Suprafon - Aegis Cafe Ulm</title>
       <link>https://www.yesticket.org/event/de/suzan-koecher-band-29-05-26/</link>
       <guid isPermaLink="false">ulm-event-2026-05-29-suzan-koecher</guid>
-      <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
       <description>Konzert von Suzan Köcher's Suprafon aus Solingen im Aegis Cafe Ulm</description>
+      <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Volleyball: Deutschland vs. Frankreich - Ratiopharm Arena Neu-Ulm</title>
       <link>https://www.radio7.de/volleyball-deutschland-vs-frankreich</link>
       <guid isPermaLink="false">ulm-event-2026-05-30-volleyball</guid>
-      <pubDate>Fri, 30 May 2026 17:00:00 +0200</pubDate>
       <description>Die Volleyball Nationalmannschaft Deutschland empfängt Olympiasieger Frankreich in der Ratiopharm Arena Neu-Ulm</description>
+      <pubDate>Fri, 30 May 2026 17:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Jazz Jam Session - Aegis Cafe Ulm</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-02-jazz-jam</guid>
-      <pubDate>Tue, 02 Jun 2026 19:30:00 +0200</pubDate>
       <description>Die Jazzer der Region treffen sich zur Jam-Session im Aegis Cafe Ulm</description>
+      <pubDate>Tue, 02 Jun 2026 19:30:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Heather Nova - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-03-heather-nova</guid>
-      <pubDate>Tue, 03 Jun 2026 20:00:00 +0200</pubDate>
       <description>Singer/Songwriterin Heather Nova beim Ulmer Zelt</description>
+      <pubDate>Tue, 03 Jun 2026 20:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Tchotchke - Aegis Cafe Ulm</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-04-tchotchke</guid>
-      <pubDate>Thu, 04 Jun 2026 19:30:00 +0200</pubDate>
       <description>Tchotchke aus New York live im Aegis Cafe Ulm</description>
+      <pubDate>Thu, 04 Jun 2026 19:30:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Mediterrane Weltmusik - Aegis Cafe Ulm</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-04-weltmusik</guid>
-      <pubDate>Thu, 04 Jun 2026 20:30:00 +0200</pubDate>
       <description>Trio Rachid Benachour, Salvatore La Ferrera – Meister des Akkordeons und Silvio Herrera mit mediterraner Weltmusik</description>
+      <pubDate>Thu, 04 Jun 2026 20:30:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Robert Cray - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-05-robert-cray</guid>
-      <pubDate>Fri, 05 Jun 2026 20:00:00 +0200</pubDate>
       <description>US-Blueser Robert Cray und seine Band beim Ulmer Zelt</description>
+      <pubDate>Fri, 05 Jun 2026 20:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Aegis Jazz Brunch mit Traces of an Echo</title>
       <link>https://www.yesticket.org/event/de/aegis-jazz-brunch-live-jazz-mit-traces-of-an-echo-14-06-26/</link>
       <guid isPermaLink="false">ulm-event-2026-06-14-jazz-brunch</guid>
-      <pubDate>Sun, 14 Jun 2026 10:00:00 +0200</pubDate>
       <description>Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!</description>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>GET WELL SOON - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-20-get-well-soon</guid>
-      <pubDate>Sat, 20 Jun 2026 20:00:00 +0200</pubDate>
       <description>Konstantin Gropper mit seinem Projekt GET WELL SOON beim Ulmer Zelt</description>
+      <pubDate>Sat, 20 Jun 2026 20:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Tankus - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-26-tankus</guid>
-      <pubDate>Fri, 26 Jun 2026 20:00:00 +0200</pubDate>
       <description>Die Londoner Band Tankus um Sänger Jaz Delorean mit swingenden Mix aus Funk, Rock und Reggae beim Ulmer Zelt</description>
+      <pubDate>Fri, 26 Jun 2026 20:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>DEEP PURPLE - Klosterhof Open Air Ulm-Wiblingen</title>
       <link>https://www.hinterland-rocks.de/</link>
       <guid isPermaLink="false">ulm-event-2026-06-28-deep-purple</guid>
-      <pubDate>Sun, 28 Jun 2026 19:00:00 +0200</pubDate>
       <description>Die legendäre Rockband DEEP PURPLE beim Klosterhof Open Air im Ulmer Teilort Wiblingen</description>
+      <pubDate>Sun, 28 Jun 2026 19:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Colosseum feat. Chris Farlowe - Ulmer Zelt</title>
       <link>https://ulmerzelt.de/</link>
       <guid isPermaLink="false">ulm-event-2026-07-01-colosseum</guid>
-      <pubDate>Wed, 01 Jul 2026 20:00:00 +0200</pubDate>
       <description>Die Jazzrock-Legende Colosseum mit Ausnahmesänger Chris Farlowe beim Ulmer Zelt</description>
+      <pubDate>Wed, 01 Jul 2026 20:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Jazz Jam Session - Aegis Cafe Ulm</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-07-04-jazz-jam</guid>
-      <pubDate>Sat, 04 Jul 2026 19:30:00 +0200</pubDate>
       <description>Die Jazzer der Region treffen sich zur Jam-Session im Aegis Cafe Ulm</description>
+      <pubDate>Sat, 04 Jul 2026 19:30:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Schwörmontag Konzert Brassmaniacs - Aegis Cafe Ulm</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-07-20-brassmaniacs</guid>
-      <pubDate>Mon, 20 Jul 2026 16:00:00 +0200</pubDate>
       <description>Brassmaniacs - die Funk, Jazz, Hip-Hop, Soul und Pop-Band aus Ulm mit Special Guests Ceedub und Afande. Eintritt frei!</description>
+      <pubDate>Mon, 20 Jul 2026 16:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Obstwiesenfestival - Dornstadt bei Ulm</title>
       <link>https://obstwiesenfestival.de/</link>
       <guid isPermaLink="false">ulm-event-2026-08-20-obstwiesenfestival</guid>
-      <pubDate>Wed, 20 Aug 2026 14:00:00 +0200</pubDate>
       <description>Umsonst &amp; Draußen Festival vom 20.-22. August mit Maxïmo Park, Bibiza, Orbit, Itchy, Fatoni, Ok.Danke.Tschüss, Big Special, Battlesnake, Easy Easy, Master Peace, Bikini Beach und vielen mehr</description>
+      <pubDate>Wed, 20 Aug 2026 14:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Aegis Jazz Brunch mit Traces of an Echo</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-09-12-jazz-brunch</guid>
-      <pubDate>Sat, 12 Sep 2026 10:00:00 +0200</pubDate>
       <description>Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!</description>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Frau Lehmann - Aegis Cafe Ulm</title>
       <link>https://www.yesticket.org/event/de/frau-lehmann-leipzig-25-09-26/</link>
       <guid isPermaLink="false">ulm-event-2026-09-25-frau-lehmann</guid>
-      <pubDate>Fri, 25 Sep 2026 19:30:00 +0200</pubDate>
       <description>Konzert von Frau Lehmann aus Leipzig im Aegis Cafe Ulm. VVK 20€/18€</description>
+      <pubDate>Fri, 25 Sep 2026 19:30:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Das Format - Aegis Cafe Ulm</title>
       <link>https://www.yesticket.org/event/de/das-format-09-10-26/</link>
       <guid isPermaLink="false">ulm-event-2026-10-09-das-format</guid>
-      <pubDate>Fri, 09 Oct 2026 19:30:00 +0200</pubDate>
       <description>Das Format aus Augsburg - Postpunk mit Noisewellen. Zwischen Idles und Fontaines DC. VVK 18€/16€</description>
+      <pubDate>Fri, 09 Oct 2026 19:30:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Aegis Jazz Brunch mit Traces of an Echo</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-10-11-jazz-brunch</guid>
-      <pubDate>Sun, 11 Oct 2026 10:00:00 +0200</pubDate>
       <description>Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!</description>
+      <pubDate>Sun, 11 Oct 2026 10:00:00 +0200</pubDate>
     </item>
 
     <item>
       <title>Ansa Sauermann - Aegis Cafe Ulm</title>
       <link>https://www.yesticket.org/event/de/ansa-sauermann-live-in-concert-19-11-26/</link>
       <guid isPermaLink="false">ulm-event-2026-11-19-ansa-sauermann</guid>
-      <pubDate>Thu, 19 Nov 2026 19:30:00 +0100</pubDate>
       <description>Ansa Sauermann live in Concert mit seinem neuen Album "Gehts noch". VVK 20€/18€</description>
+      <pubDate>Thu, 19 Nov 2026 19:30:00 +0100</pubDate>
     </item>
 
     <item>
       <title>Low key orchestra - Aegis Cafe Ulm</title>
       <link>https://aegis-literatur.buchhandlung.de/</link>
       <guid isPermaLink="false">ulm-event-2026-12-05-low-key-orchestra</guid>
-      <pubDate>Sat, 05 Dec 2026 19:30:00 +0100</pubDate>
       <description>Low key orchestra - neues Bandprojekt von Sönke Torpus (Torpus &amp; the Art Directors) mit Indie-Folk. VVK 18€/16€</description>
+      <pubDate>Sat, 05 Dec 2026 19:30:00 +0100</pubDate>
     </item>
 
   </channel>
