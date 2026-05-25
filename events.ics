@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RssCalender//Events rund um Ulm//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Events rund um Ulm
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Automatisch generierte Event-Liste für Ulm und Umgebung
+
+BEGIN:VEVENT
+UID:ulm-event-2026-05-25-kraan
+DTSTAMP:20260525T160000Z
+DTSTART:20260525T170000Z
+DTEND:20260525T200000Z
+SUMMARY:KRAAN - Ulmer Zelt
+DESCRIPTION:Heimspiel der Ulmer Jazzrock-Formation KRAAN beim Ulmer Zelt - 55 Jahre nach Bandgründung präsentieren sie ihr neues Album "All In"
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-05-27-tambours
+DTSTAMP:20260525T160000Z
+DTSTART:20260527T180000Z
+DTEND:20260527T210000Z
+SUMMARY:Les Tambours du Bronx - Ulmer Zelt
+DESCRIPTION:Die Trommler von Les Tambours du Bronx lassen das Zelt mit ihren Metallfässern erbeben
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-05-28-radio7-sunset
+DTSTAMP:20260525T160000Z
+DTSTART:20260528T150000Z
+DTEND:20260528T220000Z
+SUMMARY:Radio 7 Sunset Beats
+DESCRIPTION:Lockere Beats\, entspannte Atmosphäre und jede Menge Good Vibes bei den RADIO 7 SUNSET BEATS
+URL:https://www.radio7.de/radio-7-sunset-beats
+LOCATION:Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-05-29-suzan-koecher
+DTSTAMP:20260525T160000Z
+DTSTART:20260529T170000Z
+DTEND:20260529T200000Z
+SUMMARY:Suzan Köcher's Suprafon - Aegis Cafe Ulm
+DESCRIPTION:Konzert von Suzan Köcher's Suprafon aus Solingen im Aegis Cafe Ulm
+URL:https://www.yesticket.org/event/de/suzan-koecher-band-29-05-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-05-30-volleyball
+DTSTAMP:20260525T160000Z
+DTSTART:20260530T150000Z
+DTEND:20260530T180000Z
+SUMMARY:Volleyball: Deutschland vs. Frankreich - Ratiopharm Arena Neu-Ulm
+DESCRIPTION:Die Volleyball Nationalmannschaft Deutschland empfängt Olympiasieger Frankreich in der Ratiopharm Arena Neu-Ulm
+URL:https://www.radio7.de/volleyball-deutschland-vs-frankreich
+LOCATION:Ratiopharm Arena\, Neu-Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-02-jazz-jam
+DTSTAMP:20260525T160000Z
+DTSTART:20260602T173000Z
+DTEND:20260602T203000Z
+SUMMARY:Jazz Jam Session - Aegis Cafe Ulm
+DESCRIPTION:Die Jazzer der Region treffen sich zur Jam-Session im Aegis Cafe Ulm
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-03-heather-nova
+DTSTAMP:20260525T160000Z
+DTSTART:20260603T180000Z
+DTEND:20260603T210000Z
+SUMMARY:Heather Nova - Ulmer Zelt
+DESCRIPTION:Singer/Songwriterin Heather Nova beim Ulmer Zelt
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-04-tchotchke
+DTSTAMP:20260525T160000Z
+DTSTART:20260604T173000Z
+DTEND:20260604T203000Z
+SUMMARY:Tchotchke - Aegis Cafe Ulm
+DESCRIPTION:Tchotchke aus New York live im Aegis Cafe Ulm
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-04-weltmusik
+DTSTAMP:20260525T160000Z
+DTSTART:20260604T183000Z
+DTEND:20260604T213000Z
+SUMMARY:Mediterrane Weltmusik - Aegis Cafe Ulm
+DESCRIPTION:Trio Rachid Benachour\, Salvatore La Ferrera – Meister des Akkordeons und Silvio Herrera mit mediterraner Weltmusik
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-05-robert-cray
+DTSTAMP:20260525T160000Z
+DTSTART:20260605T180000Z
+DTEND:20260605T210000Z
+SUMMARY:Robert Cray - Ulmer Zelt
+DESCRIPTION:US-Blueser Robert Cray und seine Band beim Ulmer Zelt
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-14-jazz-brunch
+DTSTAMP:20260525T160000Z
+DTSTART:20260614T080000Z
+DTEND:20260614T130000Z
+SUMMARY:Aegis Jazz Brunch mit Traces of an Echo
+DESCRIPTION:Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!
+URL:https://www.yesticket.org/event/de/aegis-jazz-brunch-live-jazz-mit-traces-of-an-echo-14-06-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-20-get-well-soon
+DTSTAMP:20260525T160000Z
+DTSTART:20260620T180000Z
+DTEND:20260620T210000Z
+SUMMARY:GET WELL SOON - Ulmer Zelt
+DESCRIPTION:Konstantin Gropper mit seinem Projekt GET WELL SOON beim Ulmer Zelt
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-26-tankus
+DTSTAMP:20260525T160000Z
+DTSTART:20260626T180000Z
+DTEND:20260626T210000Z
+SUMMARY:Tankus - Ulmer Zelt
+DESCRIPTION:Die Londoner Band Tankus um Sänger Jaz Delorean mit swingenden Mix aus Funk\, Rock und Reggae beim Ulmer Zelt
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-28-deep-purple
+DTSTAMP:20260525T160000Z
+DTSTART:20260628T170000Z
+DTEND:20260628T210000Z
+SUMMARY:DEEP PURPLE - Klosterhof Open Air Ulm-Wiblingen
+DESCRIPTION:Die legendäre Rockband DEEP PURPLE beim Klosterhof Open Air im Ulmer Teilort Wiblingen
+URL:https://www.hinterland-rocks.de/
+LOCATION:Klosterhof\, Ulm-Wiblingen
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-01-colosseum
+DTSTAMP:20260525T160000Z
+DTSTART:20260701T180000Z
+DTEND:20260701T210000Z
+SUMMARY:Colosseum feat. Chris Farlowe - Ulmer Zelt
+DESCRIPTION:Die Jazzrock-Legende Colosseum mit Ausnahmesänger Chris Farlowe beim Ulmer Zelt
+URL:https://ulmerzelt.de/
+LOCATION:Ulmer Zelt\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-04-jazz-jam
+DTSTAMP:20260525T160000Z
+DTSTART:20260704T173000Z
+DTEND:20260704T203000Z
+SUMMARY:Jazz Jam Session - Aegis Cafe Ulm
+DESCRIPTION:Die Jazzer der Region treffen sich zur Jam-Session im Aegis Cafe Ulm
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-20-brassmaniacs
+DTSTAMP:20260525T160000Z
+DTSTART:20260720T140000Z
+DTEND:20260720T180000Z
+SUMMARY:Schwörmontag Konzert Brassmaniacs - Aegis Cafe Ulm
+DESCRIPTION:Brassmaniacs - die Funk\, Jazz\, Hip-Hop\, Soul und Pop-Band aus Ulm mit Special Guests Ceedub und Afande. Eintritt frei!
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-08-20-obstwiesenfestival
+DTSTAMP:20260525T160000Z
+DTSTART:20260820T120000Z
+DTEND:20260822T230000Z
+SUMMARY:Obstwiesenfestival - Dornstadt bei Ulm
+DESCRIPTION:Umsonst & Draußen Festival vom 20.-22. August mit Maxïmo Park\, Bibiza\, Orbit\, Itchy\, Fatoni\, Ok.Danke.Tschüss\, Big Special\, Battlesnake\, Easy Easy\, Master Peace\, Bikini Beach und vielen mehr
+URL:https://obstwiesenfestival.de/
+LOCATION:Dornstadt bei Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-12-jazz-brunch
+DTSTAMP:20260525T160000Z
+DTSTART:20260912T080000Z
+DTEND:20260912T130000Z
+SUMMARY:Aegis Jazz Brunch mit Traces of an Echo
+DESCRIPTION:Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-25-frau-lehmann
+DTSTAMP:20260525T160000Z
+DTSTART:20260925T173000Z
+DTEND:20260925T203000Z
+SUMMARY:Frau Lehmann - Aegis Cafe Ulm
+DESCRIPTION:Konzert von Frau Lehmann aus Leipzig im Aegis Cafe Ulm. VVK 20€/18€
+URL:https://www.yesticket.org/event/de/frau-lehmann-leipzig-25-09-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-09-das-format
+DTSTAMP:20260525T160000Z
+DTSTART:20261009T173000Z
+DTEND:20261009T203000Z
+SUMMARY:Das Format - Aegis Cafe Ulm
+DESCRIPTION:Das Format aus Augsburg - Postpunk mit Noisewellen. Zwischen Idles und Fontaines DC. VVK 18€/16€
+URL:https://www.yesticket.org/event/de/das-format-09-10-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-11-jazz-brunch
+DTSTAMP:20260525T160000Z
+DTSTART:20261011T080000Z
+DTEND:20261011T130000Z
+SUMMARY:Aegis Jazz Brunch mit Traces of an Echo
+DESCRIPTION:Jazz Brunch im Aegis Cafe mit Live Jazz von Traces of an Echo - inkl. Brunchbuffet. Nur mit Reservierung!
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-11-19-ansa-sauermann
+DTSTAMP:20260525T160000Z
+DTSTART:20261119T183000Z
+DTEND:20261119T213000Z
+SUMMARY:Ansa Sauermann - Aegis Cafe Ulm
+DESCRIPTION:Ansa Sauermann live in Concert mit seinem neuen Album "Gehts noch". VVK 20€/18€
+URL:https://www.yesticket.org/event/de/ansa-sauermann-live-in-concert-19-11-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-12-05-low-key-orchestra
+DTSTAMP:20260525T160000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T213000Z
+SUMMARY:Low key orchestra - Aegis Cafe Ulm
+DESCRIPTION:Low key orchestra - neues Bandprojekt von Sönke Torpus (Torpus & the Art Directors) mit Indie-Folk. VVK 18€/16€
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+END:VCALENDAR
