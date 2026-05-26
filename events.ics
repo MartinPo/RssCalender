@@ -63,17 +63,6 @@ LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-05-30-volleyball
-DTSTAMP:20260525T183000Z
-DTSTART:20260530T150000Z
-DTEND:20260530T180000Z
-SUMMARY:Volleyball: Deutschland vs. Frankreich - Ratiopharm Arena Neu-Ulm
-DESCRIPTION:Die Volleyball Nationalmannschaft Deutschland empfängt Olympiasieger Frankreich in der Ratiopharm Arena Neu-Ulm
-URL:https://www.radio7.de/volleyball-deutschland-vs-frankreich
-LOCATION:Ratiopharm Arena\, Neu-Ulm
-END:VEVENT
-
-BEGIN:VEVENT
 UID:ulm-event-2026-05-30-paul-holland
 DTSTAMP:20260525T183000Z
 DTSTART:20260530T180000Z
@@ -82,17 +71,6 @@ SUMMARY:Paul Holland - Das GOLD Neu-Ulm
 DESCRIPTION:Paul Holland live im Das GOLD in Neu-Ulm
 URL:https://dasgold.org/
 LOCATION:Das GOLD\, Neu-Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-lgs-ellwangen
-DTSTAMP:20260525T183000Z
-DTSTART:20260530T080000Z
-DTEND:20261004T180000Z
-SUMMARY:Landesgartenschau Ellwangen 2026
-DESCRIPTION:Landesgartenschau Ellwangen läuft vom 24. April bis 4. Oktober 2026
-URL:https://www.radio7.de/landesgartenschau-ellwangen-2026
-LOCATION:Ellwangen
 END:VEVENT
 
 BEGIN:VEVENT
@@ -443,6 +421,83 @@ DTSTART:20261205T183000Z
 DTEND:20261205T213000Z
 SUMMARY:Low key orchestra - Aegis Cafe Ulm
 DESCRIPTION:Low key orchestra - neues Bandprojekt von Sönke Torpus (Torpus & the Art Directors) mit Indie-Folk. VVK 18€/16€
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-12-11-joy-bogat
+DTSTAMP:20260525T183000Z
+DTSTART:20261211T183000Z
+DTEND:20261211T213000Z
+SUMMARY:Joy Bogat - Aegis Cafe Ulm
+DESCRIPTION:Joy Bogat Konzert im Aegis Cafe Ulm. VVK noch nicht verfügbar
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-23-penny-arcade
+DTSTAMP:20260525T183000Z
+DTSTART:20261023T173000Z
+DTEND:20261023T203000Z
+SUMMARY:Penny Arcade - Aegis Cafe Ulm
+DESCRIPTION:James Hoare aka Penny Arcade (ehemals Veronica Falls\, The Proper Ornaments\, Ultimate Painting) mit intimem Homerecording-Sound. VVK 20€/18€
+URL:https://www.yesticket.org/event/de/penny-arcade-23-10-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-16-michael-moravek
+DTSTAMP:20260525T183000Z
+DTSTART:20261016T173000Z
+DTEND:20261016T203000Z
+SUMMARY:Michael Moravek & Electric Traveling Show - Aegis Cafe Ulm
+DESCRIPTION:Michael Moravek stellt sein Georg-Elser-Jahr Album vor - Americana Singer-Songwriter mit Band. VVK 18€/16€
+URL:https://www.yesticket.org/event/de/ein-abend-mit-michael-moravek-electric-traveling-show-16-10-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-11-14-brokof
+DTSTAMP:20260525T183000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T213000Z
+SUMMARY:Brokof - Aegis Cafe Ulm
+DESCRIPTION:Brokof aus Berlin - Folk-Rock Quartett mit neuer Musik. VVK 18€/16€
+URL:https://aegis-literatur.buchhandlung.de/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-11-06-mina-richman
+DTSTAMP:20260525T183000Z
+DTSTART:20261106T183000Z
+DTEND:20261106T213000Z
+SUMMARY:Mina Richman "Different Flavours of Being Happy Tour" - Aegis Cafe Ulm
+DESCRIPTION:Mina Richman auf Deutschland-Tour mit ihrem zweiten Album (erscheint August 2026). Deutsch-Iranische Singer-Songwriterin aus Berlin
+URL:https://www.yesticket.org/e/ixaRIfiWhT
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-05-30-neoangin
+DTSTAMP:20260525T183000Z
+DTSTART:20260530T170000Z
+DTEND:20260530T200000Z
+SUMMARY:Neoangin aka Jim Avignon - Aegis Cafe Ulm
+DESCRIPTION:Neoangin (aka Jim Avignon) mit neuem Album "forever coming of age". DIY Electronic-Songwriter Music. VVK 18€/16€
+URL:https://www.yesticket.org/event/de/jim-avignon-30-05-26/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-17-lunar-x
+DTSTAMP:20260525T183000Z
+DTSTART:20260717T173000Z
+DTEND:20260717T203000Z
+SUMMARY:Lunar X - Aegis Cafe Ulm
+DESCRIPTION:Lunar X Jazz Quartet aus Hannover mit ihrer Debut-EP. Moderne Jazz-Kompositionen. VVK 16€/12€
 URL:https://aegis-literatur.buchhandlung.de/
 LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
 END:VEVENT
