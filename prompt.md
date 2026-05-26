@@ -2,6 +2,9 @@ scan following urls:
 https://dasgold.org/concerts.html ✓ SCANNED - 1 future event (Paul Holland, May 30)
 https://dasgold.org ✓ SCANNED
 https://www.hinterland-rocks.de/ ✓ SCANNED - DEEP PURPLE Klosterhof Wiblingen (June 28)
+https://www.hinterland-rocks.de/clubland/ulm/ ✓ SCANNED - 28 new events added from Ulm club scene
+only take from ulm and neu ulm
+
 https://www.bandsintown.com/de/v/10249107-kradhalle-e.v.?came_from=253&utm_medium=web&utm_source=city_page&utm_campaign=close_by_venues ✓ SCANNED - Packaging (May 28), Plattenbau (Nov 6)
 
 create from that an list of events around ulm and refresh feed.yaml AND events.ics with that data.
@@ -22,20 +25,12 @@ take from here only concerts
 
 Look for Mittelaltermarkt Wiblingen - SEARCHED, no 2026 results found
 
-in generall. only take events from today or future
+in generall. only take events from today or future, no duplicates
 
-LAST SCAN: May 25, 2026, 20:30
-TOTAL EVENTS IN FEED: 36 music events (May 25 - December 2026)
+LAST SCAN: May 26, 2026, 10:00
+TOTAL EVENTS IN FEED: 64 music events (May 26 - December 2026)
 
-UPDATED: Added 8 new concert events from Aegis calendar:
-- Neoangin aka Jim Avignon (May 30)
-- Lunar X (July 17)
-- Penny Arcade (Oct 23)
-- Michael Moravek & Electric Traveling Show (Oct 16)
-- Mina Richman (Nov 6)
-- Brokof (Nov 14)
-- Joy Bogat (Dec 11)
-
-REMOVED: Non-music events excluded per filter rules:
-- Volleyball: Deutschland vs. Frankreich (Sport event from radio7.de)
-- Landesgartenschau Ellwangen 2026 (Non-music event from radio7.de)
+ADDED: 28 new events from Hinterland clubland/ulm:
+- Various venues: Beteigeuze, CAT, Roxy, Hexenhaus, Stadthaus, Bonanzbar
+- Genres: Punk, Metal, Jazz, A Cappella, Alternative Rock, Dark Wave
+- Highlights: Madsen, Axel Rudi Pell, Kissin' Dynamite, Party.San-Warm Up

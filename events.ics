@@ -502,4 +502,301 @@ URL:https://aegis-literatur.buchhandlung.de/
 LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
 END:VEVENT
 
+BEGIN:VEVENT
+UID:ulm-event-2026-05-29-mdc
+DTSTAMP:20260526T100000Z
+DTSTART:20260529T180000Z
+DTEND:20260529T220000Z
+SUMMARY:M.D.C. - Beteigeuze Ulm
+DESCRIPTION:M.D.C. (Hardcore-Punk/USA) mit Support: Barackca (HU) im Beteigeuze Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Beteigeuze\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-02-faintest-idea
+DTSTAMP:20260526T100000Z
+DTSTART:20260602T180000Z
+DTEND:20260602T220000Z
+SUMMARY:Faintest Idea - Beteigeuze Ulm
+DESCRIPTION:Faintest Idea (Ska-Punk/GB) im Beteigeuze Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Beteigeuze\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-05-blitzkid
+DTSTAMP:20260526T100000Z
+DTSTART:20260605T180000Z
+DTEND:20260605T220000Z
+SUMMARY:Blitzkid - Beteigeuze Ulm
+DESCRIPTION:Blitzkid (Punkrock/USA) mit Support: Horror Vision im Beteigeuze Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Beteigeuze\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-06-trio-kimura
+DTSTAMP:20260526T100000Z
+DTSTART:20260606T180000Z
+DTEND:20260606T210000Z
+SUMMARY:Trio Kimura - Stadthaus Ulm
+DESCRIPTION:Trio Kimura feat. Izumu Kimura\, Barry Guy & Gerry Hemingway (Modern-Jazz) im Stadthaus Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-13-party-san
+DTSTAMP:20260526T100000Z
+DTSTART:20260613T180000Z
+DTEND:20260613T230000Z
+SUMMARY:Party.San-Warm Up - CAT Ulm
+DESCRIPTION:Party.San-Warm Up (Metal): Fleshcrawl\, Nail Ny Nail\, Anheim\, Infected Chaos\, Helleval im CAT Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:CAT\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-14-traces-brunch
+DTSTAMP:20260526T100000Z
+DTSTART:20260614T080000Z
+DTEND:20260614T120000Z
+SUMMARY:Traces Of An Echo - Aegis Cafe Ulm (Jazz-Brunch)
+DESCRIPTION:Traces Of An Echo Jazz-Brunch im Aegis Cafe Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-19-devil-m
+DTSTAMP:20260526T100000Z
+DTSTART:20260619T180000Z
+DTEND:20260619T220000Z
+SUMMARY:Devil-M - CAT Ulm
+DESCRIPTION:Devil-M (Industrial-Metal) mit Special Guest: DJ Oli Klein im CAT Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:CAT\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-19-neckarions
+DTSTAMP:20260526T100000Z
+DTSTART:20260619T180000Z
+DTEND:20260619T220000Z
+SUMMARY:Neckarions, Härberds - Beteigeuze Ulm
+DESCRIPTION:Neckarions\, Härberds (Punkrock-Doppel) im Beteigeuze Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Beteigeuze\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-20-choriosity
+DTSTAMP:20260526T100000Z
+DTSTART:20260620T180000Z
+DTEND:20260620T210000Z
+SUMMARY:Choriosity - Roxy Ulm
+DESCRIPTION:Choriosity (A Cappella) im Roxy Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-06-20-musikerinitiative
+DTSTAMP:20260526T100000Z
+DTSTART:20260620T180000Z
+DTEND:20260620T220000Z
+SUMMARY:Musikerinitiative Ulm Special - Bonanzbar Neu-Ulm
+DESCRIPTION:Musikerinitiative Ulm Special im Bonanzbar Neu-Ulm-Ludwigsfeld
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Bonanzbar\, Neu-Ulm-Ludwigsfeld
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-02-jazz-jam-hinterland
+DTSTAMP:20260526T100000Z
+DTSTART:20260702T173000Z
+DTEND:20260702T203000Z
+SUMMARY:Jazz Jam Session - Aegis Cafe Ulm
+DESCRIPTION:Jazz Jam Session im Aegis Cafe Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-10-black-oceans-edge
+DTSTAMP:20260526T100000Z
+DTSTART:20260710T180000Z
+DTEND:20260710T220000Z
+SUMMARY:Black Ocean's Edge, Wasteland Haze - Hexenhaus Ulm
+DESCRIPTION:Black Ocean's Edge\, Wasteland Haze (2 x Psychedelic-Hardrock) im Hexenhaus Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Hexenhaus\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-11-head-over-heels
+DTSTAMP:20260526T100000Z
+DTSTART:20260711T180000Z
+DTEND:20260711T220000Z
+SUMMARY:Head Over Heels - Bonanzbar Neu-Ulm
+DESCRIPTION:Head Over Heels (Cover-Rock) im Bonanzbar Neu-Ulm-Ludwigsfeld
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Bonanzbar\, Neu-Ulm-Ludwigsfeld
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-12-lady-lazarus
+DTSTAMP:20260526T100000Z
+DTSTART:20260712T180000Z
+DTEND:20260712T220000Z
+SUMMARY:Lady Lazarus, Emanzenpanzer - Beteigeuze Ulm
+DESCRIPTION:Lady Lazarus\, Emanzenpanzer (2 x Punkrock) im Beteigeuze Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Beteigeuze\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-12-kammerchor
+DTSTAMP:20260526T100000Z
+DTSTART:20260712T150000Z
+DTEND:20260712T170000Z
+SUMMARY:Kammerchor Uni Ulm - Stadthaus Ulm
+DESCRIPTION:Kammerchor Uni Ulm (A Cappella-Programm) im Stadthaus Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-07-18-tanja-nova
+DTSTAMP:20260526T100000Z
+DTSTART:20260718T173000Z
+DTEND:20260718T203000Z
+SUMMARY:Tanja Nova - Aegis Cafe Ulm
+DESCRIPTION:Tanja Nova (Singer/Songwriterin) im Aegis Cafe Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-08-01-holland-gale
+DTSTAMP:20260526T100000Z
+DTSTART:20260801T173000Z
+DTEND:20260801T203000Z
+SUMMARY:Paul Holland & Daphne Gale - Aegis Cafe Ulm
+DESCRIPTION:Paul Holland & Daphne Gale (Singer/Songwriter-Duo - inkl. Solo-Sets) im Aegis Cafe Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-08-06-doctor-krapula
+DTSTAMP:20260526T100000Z
+DTSTART:20260806T180000Z
+DTEND:20260806T220000Z
+SUMMARY:Doctor Krapula - Roxy Ulm
+DESCRIPTION:Doctor Krapula (Mestizo-Rock/COL) im Roxy Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-05-kavernist
+DTSTAMP:20260526T100000Z
+DTSTART:20260905T180000Z
+DTEND:20260905T220000Z
+SUMMARY:Kavernist - Hexenhaus Ulm
+DESCRIPTION:Kavernist u.a. (Metal) im Hexenhaus Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Hexenhaus\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-12-yakima-yera
+DTSTAMP:20260526T100000Z
+DTSTART:20260912T180000Z
+DTEND:20260912T220000Z
+SUMMARY:Yakima Yera - CAT Ulm
+DESCRIPTION:Yakima Yera (Dark Wave) im CAT Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:CAT\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-14-eva-klesse
+DTSTAMP:20260526T100000Z
+DTSTART:20260914T180000Z
+DTEND:20260914T210000Z
+SUMMARY:Eva Klesse Quartett - Stadthaus Ulm
+DESCRIPTION:Eva Klesse Quartett (Modern-Jazz) im Stadthaus Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-tonphobie
+DTSTAMP:20260526T100000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T220000Z
+SUMMARY:Kulturnacht: Tonphobie - Hemperium Ulm
+DESCRIPTION:Kulturnacht Ulm/Neu-Ulm: Tonphobie (Alternative-Rock) im Hemperium Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Hemperium\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-no-brainer
+DTSTAMP:20260526T100000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T220000Z
+SUMMARY:Kulturnacht: No-Brainer - Hexenhaus Ulm
+DESCRIPTION:Kulturnacht Ulm/Neu-Ulm: No-Brainer u.a. (Metal) im Hexenhaus Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Hexenhaus\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-kissin-dynamite
+DTSTAMP:20260526T100000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T220000Z
+SUMMARY:Kissin' Dynamite - Ratiopharm-Arena Neu-Ulm
+DESCRIPTION:Kissin' Dynamite (Hardrock) in der Ratiopharm-Arena Neu-Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Ratiopharm-Arena\, Neu-Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-20-traces-echo
+DTSTAMP:20260526T100000Z
+DTSTART:20260920T173000Z
+DTEND:20260920T203000Z
+SUMMARY:Traces Of An Echo - Aegis Cafe Ulm
+DESCRIPTION:Traces Of An Echo im Aegis Cafe Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-25-madsen
+DTSTAMP:20260526T100000Z
+DTSTART:20260925T180000Z
+DTEND:20260925T220000Z
+SUMMARY:Madsen - Roxy Ulm
+DESCRIPTION:Madsen (Alternative-Rock) im Roxy Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-29-axel-rudi-pell
+DTSTAMP:20260526T100000Z
+DTSTART:20260929T180000Z
+DTEND:20260929T220000Z
+SUMMARY:Axel Rudi Pell - Roxy Ulm
+DESCRIPTION:Axel Rudi Pell (Metal) im Roxy Ulm
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+END:VEVENT
+
 END:VCALENDAR
