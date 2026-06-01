@@ -5,76 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Events rund um Ulm
 X-WR-TIMEZONE:Europe/Berlin
-X-WR-CALDESC:Automatisch generierte Event-Liste für Ulm und Umgebung
+X-WR-CALDESC:Automatisch generierte Event-Liste für Ulm und Umgebung - Updated January 6\, 2026
 
 BEGIN:VEVENT
-UID:ulm-event-2026-05-25-kraan
-DTSTAMP:20260525T183000Z
-DTSTART:20260525T170000Z
-DTEND:20260525T200000Z
-SUMMARY:KRAAN - Ulmer Zelt
-DESCRIPTION:Heimspiel der Ulmer Jazzrock-Formation KRAAN beim Ulmer Zelt - 55 Jahre nach Bandgründung präsentieren sie ihr neues Album "All In"
-URL:https://ulmerzelt.de/
-LOCATION:Ulmer Zelt\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-05-27-tambours
-DTSTAMP:20260525T183000Z
-DTSTART:20260527T180000Z
-DTEND:20260527T210000Z
-SUMMARY:Les Tambours du Bronx - Ulmer Zelt
-DESCRIPTION:Die Trommler von Les Tambours du Bronx lassen das Zelt mit ihren Metallfässern erbeben
-URL:https://ulmerzelt.de/
-LOCATION:Ulmer Zelt\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-05-28-radio7-sunset
-DTSTAMP:20260525T183000Z
-DTSTART:20260528T150000Z
-DTEND:20260528T200000Z
-SUMMARY:Radio 7 Sunset Beats
-DESCRIPTION:Lockere Beats\, entspannte Atmosphäre und jede Menge Good Vibes bei den RADIO 7 SUNSET BEATS
-URL:https://www.radio7.de/radio-7-sunset-beats
-LOCATION:Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-05-28-packaging-kradhalle
-DTSTAMP:20260525T183000Z
-DTSTART:20260528T180000Z
-DTEND:20260528T210000Z
-SUMMARY:Packaging - Kradhalle Ulm
-DESCRIPTION:Konzert von Packaging in der Kradhalle Ulm
-URL:https://www.bandsintown.com/de/e/1038608442-packaging-at-kradhalle-e.v.
-LOCATION:Kradhalle\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-05-29-suzan-koecher
-DTSTAMP:20260525T183000Z
-DTSTART:20260529T170000Z
-DTEND:20260529T200000Z
-SUMMARY:Suzan Köcher's Suprafon - Aegis Cafe Ulm
-DESCRIPTION:Konzert von Suzan Köcher's Suprafon aus Solingen im Aegis Cafe Ulm
-URL:https://www.yesticket.org/event/de/suzan-koecher-band-29-05-26/
-LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-05-30-paul-holland
-DTSTAMP:20260525T183000Z
-DTSTART:20260530T180000Z
-DTEND:20260530T210000Z
-SUMMARY:Paul Holland - Das GOLD Neu-Ulm
-DESCRIPTION:Paul Holland live im Das GOLD in Neu-Ulm
-URL:https://dasgold.org/
-LOCATION:Das GOLD\, Neu-Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-06-02-jazz-jam
+UID:ulm-event-2026-06-01-ein-neues-kapitel
 DTSTAMP:20260525T183000Z
 DTSTART:20260602T173000Z
 DTEND:20260602T203000Z
@@ -503,39 +437,6 @@ LOCATION:Aegis Cafe Ulm\, Karlstraße 46\, Ulm
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-05-29-mdc
-DTSTAMP:20260526T100000Z
-DTSTART:20260529T180000Z
-DTEND:20260529T220000Z
-SUMMARY:M.D.C. - Beteigeuze Ulm
-DESCRIPTION:M.D.C. (Hardcore-Punk/USA) mit Support: Barackca (HU) im Beteigeuze Ulm
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Beteigeuze\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-06-02-faintest-idea
-DTSTAMP:20260526T100000Z
-DTSTART:20260602T180000Z
-DTEND:20260602T220000Z
-SUMMARY:Faintest Idea - Beteigeuze Ulm
-DESCRIPTION:Faintest Idea (Ska-Punk/GB) im Beteigeuze Ulm
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Beteigeuze\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-06-05-blitzkid
-DTSTAMP:20260526T100000Z
-DTSTART:20260605T180000Z
-DTEND:20260605T220000Z
-SUMMARY:Blitzkid - Beteigeuze Ulm
-DESCRIPTION:Blitzkid (Punkrock/USA) mit Support: Horror Vision im Beteigeuze Ulm
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Beteigeuze\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
 UID:ulm-event-2026-06-06-trio-kimura
 DTSTAMP:20260526T100000Z
 DTSTART:20260606T180000Z
@@ -577,17 +478,6 @@ SUMMARY:Devil-M - CAT Ulm
 DESCRIPTION:Devil-M (Industrial-Metal) mit Special Guest: DJ Oli Klein im CAT Ulm
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:CAT\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-06-19-neckarions
-DTSTAMP:20260526T100000Z
-DTSTART:20260619T180000Z
-DTEND:20260619T220000Z
-SUMMARY:Neckarions, Härberds - Beteigeuze Ulm
-DESCRIPTION:Neckarions\, Härberds (Punkrock-Doppel) im Beteigeuze Ulm
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Beteigeuze\, Ulm
 END:VEVENT
 
 BEGIN:VEVENT
@@ -643,17 +533,6 @@ SUMMARY:Head Over Heels - Bonanzbar Neu-Ulm
 DESCRIPTION:Head Over Heels (Cover-Rock) im Bonanzbar Neu-Ulm-Ludwigsfeld
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Bonanzbar\, Neu-Ulm-Ludwigsfeld
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-12-lady-lazarus
-DTSTAMP:20260526T100000Z
-DTSTART:20260712T180000Z
-DTEND:20260712T220000Z
-SUMMARY:Lady Lazarus, Emanzenpanzer - Beteigeuze Ulm
-DESCRIPTION:Lady Lazarus\, Emanzenpanzer (2 x Punkrock) im Beteigeuze Ulm
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Beteigeuze\, Ulm
 END:VEVENT
 
 BEGIN:VEVENT
