@@ -1,8 +1,7 @@
 
-
-create from that an list of events around ulm and refresh events.ics with that data.
-in generall. only take events from today or future, no duplicates
-you can delete all events in events.ics and just create the new ones
+delete all events in events.ics. Remember current pattern of the file.
+create an list of events around ulm and refresh events.ics with that data.
+in generall. only take events from today or future, no duplicates. Only consider next two month.
 
 scan following urls:
 https://dasgold.org/concerts.html
@@ -19,6 +18,8 @@ from here only music related stuff, no sport or Landesgartenschau
 https://ulmerzelt.de/ 
 https://donaufest.de/ 
 https://www.hemperium.de/?post_type=tribe_events 
+https://www.die-wilhelmsburg.de/events/
+https://www.roxy.ulm.de/soundgarten/soundgarten.php
 
 https://obstwiesenfestival.de/ 
 https://www.schwoermontag.com/ 
