@@ -19,7 +19,6 @@ https://ulmerzelt.de/
 https://donaufest.de/ 
 https://www.hemperium.de/?post_type=tribe_events 
 https://www.die-wilhelmsburg.de/events/
-https://www.roxy.ulm.de/soundgarten/soundgarten.php
 
 https://obstwiesenfestival.de/ 
 https://www.schwoermontag.com/ 
