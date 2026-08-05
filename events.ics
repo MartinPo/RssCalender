@@ -5,298 +5,174 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Events rund um Ulm
 X-WR-TIMEZONE:Europe/Berlin
-X-WR-CALDESC:Automatisch generierte Event-Liste fur Ulm und Neu-Ulm - Upda
- ted July 6\, 2026
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-06-donaufest
-DTSTAMP:20260706T120000Z
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260713
-SUMMARY:14. Internationales Donaufest - Ulm/Neu-Ulm
-DESCRIPTION:10 Tage\, 10 Lander - Das Internationale Donaufest mit Musik\,
-  Tanz\, Kultur und kulinarischen Spezialitaten aus den Donaulandern. 03.-12
- . Juli 2026\, taglich ab 11 Uhr (Fr 17 Uhr). Eintritt frei.
-URL:https://donaufest.de/
-LOCATION:Donauufer\, Ulm und Neu-Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-10-felix-kramer-dasgold
-DTSTAMP:20260706T120000Z
-DTSTART:20260710T180000Z
-DTEND:20260710T210000Z
-SUMMARY:Felix Kramer - Das Gold Neu-Ulm
-DESCRIPTION:Felix Kramer (Wien) - letzte Show vor der Sommerpause. Eintritt
-  frei.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-10-black-oceans-edge
-DTSTAMP:20260706T120000Z
-DTSTART:20260710T180000Z
-DTEND:20260710T220000Z
-SUMMARY:Black Ocean's Edge & Wasteland Haze - Hexenhaus Ulm
-DESCRIPTION:Black Ocean's Edge und Wasteland Haze (Psychedelic-Hardrock) im
-  Hexenhaus Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Hexenhaus\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-11-head-over-heels
-DTSTAMP:20260706T120000Z
-DTSTART:20260711T180000Z
-DTEND:20260711T220000Z
-SUMMARY:Head Over Heels (Cover-Rock) - Bonanzbar Neu-Ulm
-DESCRIPTION:Head Over Heels (Cover-Rock) live in der Bonanzbar Neu-Ulm-Ludw
- igsfeld.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Bonanzbar\, Neu-Ulm-Ludwigsfeld
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-12-kammerchor-uni-ulm
-DTSTAMP:20260706T120000Z
-DTSTART:20260712T150000Z
-DTEND:20260712T170000Z
-SUMMARY:Kammerchor Uni Ulm (A Cappella) - Stadthaus Ulm
-DESCRIPTION:Kammerchor Uni Ulm mit A Cappella-Programm im Stadthaus Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Stadthaus\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-18-tanja-nova
-DTSTAMP:20260706T120000Z
-DTSTART:20260718T170000Z
-DTEND:20260718T210000Z
-SUMMARY:Tanja Nova (Singer/Songwriterin) - Aegis Cafe Ulm
-DESCRIPTION:Tanja Nova (Singer/Songwriterin) live im Aegis Cafe Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Aegis Cafe\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-19-roland-kaiser-schwoerwoche
-DTSTAMP:20260706T120000Z
-DTSTART:20260719T170000Z
-DTEND:20260719T210000Z
-SUMMARY:Roland Kaiser - Schworwoche Konzert Ulm
-DESCRIPTION:Roland Kaiser live in Ulm zur Schworwoche 2026.
-URL:https://www.schwoermontag.com/kalender/
-LOCATION:Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-20-brassmaniacs
-DTSTAMP:20260706T120000Z
-DTSTART:20260720T140000Z
-DTEND:20260720T180000Z
-SUMMARY:Brassmaniacs (Brass-Hip Hop-Soul-Funk) - Aegis Cafe Ulm
-DESCRIPTION:Brassmaniacs (Brass-Hip Hop-Soul-Funk) live im Aegis Cafe Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Aegis Cafe\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-23-fatcat-wilhelmsburg
-DTSTAMP:20260706T120000Z
-DTSTART:20260723T170000Z
-DTEND:20260723T230000Z
-SUMMARY:Sturmt die Burg 2026 - Vorkonzert: FATCAT - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Vorkonzert mit FATCAT. Open Air an der Wil
- helmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/events/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-24-stuermt-die-burg-eroeffnung
-DTSTAMP:20260706T120000Z
-DTSTART:20260724T170000Z
-DTEND:20260725T000000Z
-SUMMARY:Sturmt die Burg 2026 - Eroffnungstag: YUNUS - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Eroffnungstag mit YUNUS. Open Air Konzert
-  an der Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-eroeffnungs
- tag/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-25-stuermt-die-burg-tag2
-DTSTAMP:20260706T120000Z
-DTSTART:20260725T170000Z
-DTEND:20260726T000000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 2: LGoony - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 2 mit LGoony. Open Air Konzert an der
-  Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-2/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-26-stuermt-die-burg-tag3
-DTSTAMP:20260706T120000Z
-DTSTART:20260726T140000Z
-DTEND:20260726T210000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 3: Annika Dietmann - Die Wilhelmsburg Ul
- m
-DESCRIPTION:Sturmt die Burg 2026 Tag 3 mit Annika Dietmann. Open Air Konzer
- t an der Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-3/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-30-stuermt-die-burg-tag4
-DTSTAMP:20260706T120000Z
-DTSTART:20260730T170000Z
-DTEND:20260730T220000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 4: Paulinko - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 4 mit Paulinko. Open Air Konzert an de
- r Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-4/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-07-31-stuermt-die-burg-tag5
-DTSTAMP:20260706T120000Z
-DTSTART:20260731T170000Z
-DTEND:20260731T220000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 5: Moltke & Morike - Die Wilhelmsburg Ul
- m
-DESCRIPTION:Sturmt die Burg 2026 Tag 5 mit Moltke & Morike. Open Air Konzer
- t an der Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-5/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-08-01-stuermt-die-burg-tag6
-DTSTAMP:20260706T120000Z
-DTSTART:20260801T170000Z
-DTEND:20260802T000000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 6: SHIMMER - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 6 mit SHIMMER. Open Air Konzert an der
-  Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/events/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-08-01-paul-holland-daphne-gale
-DTSTAMP:20260706T120000Z
-DTSTART:20260801T170000Z
-DTEND:20260801T210000Z
-SUMMARY:Paul Holland & Daphne Gale (Singer/Songwriter) - Aegis Cafe Ulm
-DESCRIPTION:Paul Holland & Daphne Gale (Singer/Songwriter-Duo mit Solo-Sets
- ) live im Aegis Cafe Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Aegis Cafe\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-08-02-stuermt-die-burg-tag7
-DTSTAMP:20260706T120000Z
-DTSTART:20260802T140000Z
-DTEND:20260802T210000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 7: Brassed Arts - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 7 mit Brassed Arts. Open Air Konzert a
- n der Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-7/
-LOCATION:Die Wilhelmsburg\, Ulm
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-08-06-doctor-krapula
-DTSTAMP:20260706T120000Z
-DTSTART:20260806T180000Z
-DTEND:20260806T220000Z
-SUMMARY:Doctor Krapula (Mestizo-Rock/Kolumbien) - Roxy Ulm
-DESCRIPTION:Doctor Krapula (Mestizo-Rock aus Kolumbien) live im Roxy Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Roxy\, Ulm
-END:VEVENT
+X-WR-CALDESC:Automatisch generierte Event-Liste fur Ulm und Neu-Ulm - Updated August 5\, 2026
 
 BEGIN:VEVENT
 UID:ulm-event-2026-08-06-stuermt-die-burg-tag8
-DTSTAMP:20260706T120000Z
-DTSTART:20260806T170000Z
-DTEND:20260806T230000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 8: Rainer von Vielen Duo - Die Wilhelmsb
- urg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 8 mit Rainer von Vielen Duo. Open Air
-  Konzert an der Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-8/
+DTSTAMP:20260805T120000Z
+DTSTART:20260806T150000Z
+DTEND:20260806T210000Z
+SUMMARY:Stürmt die Burg 2026 - Tag 8
+DESCRIPTION:Konzert-Festival "Stürmt die Burg" auf der Wilhelmsburg Ulm.
+URL:https://www.die-wilhelmsburg.de/events/
 LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:CONCERT,FESTIVAL
 END:VEVENT
 
 BEGIN:VEVENT
 UID:ulm-event-2026-08-07-stuermt-die-burg-tag9
-DTSTAMP:20260706T120000Z
-DTSTART:20260807T170000Z
+DTSTAMP:20260805T120000Z
+DTSTART:20260807T150000Z
 DTEND:20260808T000000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 9: Echobay - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 9 mit Echobay. Open Air Konzert an der
-  Wilhelmsburg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-2026-tag-9/
+SUMMARY:Stürmt die Burg - Tag 9 feat. Echobay
+DESCRIPTION:Konzert-Festival "Stürmt die Burg" auf der Wilhelmsburg Ulm mit Echobay.
+URL:https://www.die-wilhelmsburg.de/events/
 LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:CONCERT,FESTIVAL
 END:VEVENT
 
 BEGIN:VEVENT
 UID:ulm-event-2026-08-08-stuermt-die-burg-tag10
-DTSTAMP:20260706T120000Z
-DTSTART:20260808T170000Z
-DTEND:20260808T230000Z
-SUMMARY:Sturmt die Burg 2026 - Tag 10 - Die Wilhelmsburg Ulm
-DESCRIPTION:Sturmt die Burg 2026 Tag 10. Open Air Konzert an der Wilhelmsbu
- rg Ulm.
-URL:https://www.die-wilhelmsburg.de/event/stuermt-die-burg-tag-10-3/
+DTSTAMP:20260805T120000Z
+DTSTART:20260808T150000Z
+DTEND:20260808T210000Z
+SUMMARY:Stürmt die Burg - Tag 10 feat. Chabezo
+DESCRIPTION:Konzert-Festival "Stürmt die Burg" auf der Wilhelmsburg Ulm mit Chabezo.
+URL:https://www.die-wilhelmsburg.de/events/
 LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:CONCERT,FESTIVAL
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-08-09-stuermt-die-burg-tag11
+DTSTAMP:20260805T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T190000Z
+SUMMARY:Stürmt die Burg - Tag 11 feat. Isimbi Dee
+DESCRIPTION:Konzert-Festival "Stürmt die Burg" auf der Wilhelmsburg Ulm mit Isimbi Dee.
+URL:https://www.die-wilhelmsburg.de/events/
+LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:CONCERT,FESTIVAL
 END:VEVENT
 
 BEGIN:VEVENT
 UID:ulm-event-2026-08-20-obstwiesenfestival
-DTSTAMP:20260706T120000Z
+DTSTAMP:20260805T120000Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260823
-SUMMARY:Obstwiesenfestival 2026 - Dornstadt bei Ulm (Umsonst & Draussen)
-DESCRIPTION:Umsonst & Draussen Festival 20.-22. August 2026 in Dornstadt be
- i Ulm. Lineup: Maximo Park\, Bibiza\, Orbit\, Itchy\, Fatoni\, Ok.Danke.Ts
- chuss\, Big Special\, Somebody's Child\, Battlesnake\, Valentino Vivace\, E
- asy Easy\, Master Peace\, Boko Yout\, Yard\, Meatbodies\, Redd.\, Teen Jesu
- s & The Jean Teasers\, Bikini Beach\, Vandalisbin\, Punchbag\, Ende\, Lawn
-  Chair und weitere. Eintritt frei!
+SUMMARY:Obstwiesenfestival 2026 - Dornstadt
+DESCRIPTION:Eines der größten kostenlosen Festivals der Region! 20.-22. August 2026\, Umsonst & Draussen. Mit: MAXÏMO PARK\, BIBIZA\, ORBIT\, ITCHY\, FATONI\, OK.DANKE.TSCHÜSS\, BIG SPECIAL\, SOMEBODY'S CHILD\, BATTLESNAKE\, VALENTINO VIVACE\, EASY EASY\, MASTER PEACE\, BOKO YOUT\, YARD\, MEATBODIES\, REDD\, TEEN JESUS & THE JEAN TEASERS und vielen mehr. Eintritt frei!
 URL:https://obstwiesenfestival.de/
 LOCATION:Dornstadt bei Ulm
+CATEGORIES:FESTIVAL,FREE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-08-27-between-bodies-swan-songs
-DTSTAMP:20260706T120000Z
-DTSTART:20260827T180000Z
-DTEND:20260827T220000Z
-SUMMARY:Between Bodies & Swan Songs (Punkrock) - Hemperium Ulm
-DESCRIPTION:Between Bodies und Swan Songs (Punkrock-Doppelpack) live im Hem
- perium Ulm.
+UID:ulm-event-2026-09-04-klangfest-wilhelmsburg
+DTSTAMP:20260805T120000Z
+DTSTART:20260904T170000Z
+DTEND:20260904T210000Z
+SUMMARY:Klangfest - Konzert und Mittelaltermarkt
+DESCRIPTION:Klangfest mit Konzert von KOENIX und Mittelaltermarkt an der Wilhelmsburg Ulm.
+URL:https://www.die-wilhelmsburg.de/events/
+LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:CONCERT,FESTIVAL,MEDIEVAL
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-05-im-glanz-der-ritter
+DTSTAMP:20260805T120000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+SUMMARY:Wilhelmsburg - Im Glanz der Ritter
+DESCRIPTION:Mittelalterliches Spektakel mit Musik und Konzerten an der Wilhelmsburg Ulm. 5.-6. September 2026\, 11-22 Uhr.
+URL:https://www.die-wilhelmsburg.de/events/
+LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:FESTIVAL,MEDIEVAL,CONCERT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-kulturnacht-ulm
+DTSTAMP:20260805T120000Z
+DTSTART:20260919T160000Z
+DTEND:20260920T020000Z
+SUMMARY:KulturNacht Ulm/Neu-Ulm 2026
+DESCRIPTION:KulturNacht Ulm und Neu-Ulm mit Musik\, Kunst und Kultur in über 60 Locations. Programm bei Hemperium\, Aegis und vielen weiteren Veranstaltungsorten.
+URL:https://www.kulturnacht-ulm.de/
+LOCATION:Ulm und Neu-Ulm (verschiedene Locations)
+CATEGORIES:CULTURE,FESTIVAL,CONCERT,ART
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-08-soap-girls-hemperium
+DTSTAMP:20260805T120000Z
+DTSTART:20261008T190000Z
+DTEND:20261008T220000Z
+SUMMARY:the Soap Girls\, Orange - Hemperium Ulm
+DESCRIPTION:the Soap Girls und Orange live im Hemperium Ulm.
 URL:https://www.hemperium.de/?post_type=tribe_events
 LOCATION:Hemperium\, Ulm
+CATEGORIES:CONCERT
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-05-kavernist
-DTSTAMP:20260706T120000Z
-DTSTART:20260905T180000Z
-DTEND:20260905T220000Z
-SUMMARY:Kavernist u.a. (Metal) - Hexenhaus Ulm
-DESCRIPTION:Kavernist und weitere Bands (Metal) live im Hexenhaus Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Hexenhaus\, Ulm
+UID:ulm-event-2026-10-09-die-autos-hemperium
+DTSTAMP:20260805T120000Z
+DTSTART:20261009T190000Z
+DTEND:20261009T220000Z
+SUMMARY:die AUTOS / KÜSTE - Hemperium Ulm
+DESCRIPTION:die AUTOS und KÜSTE live im Hemperium Ulm.
+URL:https://www.hemperium.de/?post_type=tribe_events
+LOCATION:Hemperium\, Ulm
+CATEGORIES:CONCERT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-17-chanson-trottoir-hemperium
+DTSTAMP:20260805T120000Z
+DTSTART:20261017T190000Z
+DTEND:20261017T220000Z
+SUMMARY:Chanson Trottoir - Hemperium Ulm
+DESCRIPTION:Chanson Trottoir live im Hemperium Ulm.
+URL:https://www.hemperium.de/?post_type=tribe_events
+LOCATION:Hemperium\, Ulm
+CATEGORIES:CONCERT,CHANSON
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-23-zwackelmann-hemperium
+DTSTAMP:20260805T120000Z
+DTSTART:20261023T190000Z
+DTEND:20261023T220000Z
+SUMMARY:Zwackelmann\, Andreas Kalb - Hemperium Ulm
+DESCRIPTION:Zwackelmann und Andreas Kalb live im Hemperium Ulm.
+URL:https://www.hemperium.de/?post_type=tribe_events
+LOCATION:Hemperium\, Ulm
+CATEGORIES:CONCERT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-24-geschlossene-gesellschaft-hemperium
+DTSTAMP:20260805T120000Z
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Geschlossene Gesellschaft - Hemperium Ulm
+DESCRIPTION:Geschlossene Gesellschaft live im Hemperium Ulm.
+URL:https://www.hemperium.de/?post_type=tribe_events
+LOCATION:Hemperium\, Ulm
+CATEGORIES:CONCERT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-31-halloween-wilhelmsburg
+DTSTAMP:20260805T120000Z
+DTSTART:20261031T200000Z
+DTEND:20261101T030000Z
+SUMMARY:Turmrauschen - Halloween Rave - Die Wilhelmsburg
+DESCRIPTION:Turmrauschen - Halloween Rave an der Wilhelmsburg Ulm. Electronic Music Event.
+URL:https://www.die-wilhelmsburg.de/events/
+LOCATION:Die Wilhelmsburg\, Ulm
+CATEGORIES:PARTY,ELECTRONIC,HALLOWEEN
 END:VEVENT
 
 END:VCALENDAR
