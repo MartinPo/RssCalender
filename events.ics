@@ -5,39 +5,27 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Events rund um Ulm
 X-WR-TIMEZONE:Europe/Berlin
-X-WR-CALDESC:Automatisch generierte Event-Liste fur Ulm und Neu-Ulm - Updated August 25\, 2026
+X-WR-CALDESC:Automatisch generierte Event-Liste fur Ulm und Neu-Ulm - Updated September 5\, 2026
 
 BEGIN:VEVENT
-UID:ulm-event-2026-08-27-between-bodies-schilli
-DTSTAMP:20260825T120000Z
-DTSTART:20260827T180000Z
-DTEND:20260827T220000Z
-SUMMARY:Between Bodies + Swan Songs
-DESCRIPTION:Die Kölner Emo-Punk-Band Between Bodies stellt ihr neues Album "Hands To Hold Each Other" vor mit Support von Swan Songs.
+UID:ulm-event-2026-09-05-kavernist
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T190000
+DTEND:20260905T230000
+SUMMARY:Kavernist - Record-Release-Party
+DESCRIPTION:Kavernist mit Ultrashit\, Disasseln und RAN zur Veroeffentlichung von Holocene Blues.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Club Schilli\, Ulm
-CATEGORIES:CONCERT,PUNK
+LOCATION:Hexenhaus\, Ulm
+CATEGORIES:CONCERT,METAL
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-05-kulturnacht-hemperium
-DTSTAMP:20260825T120000Z
-DTSTART:20260905T160000Z
-DTEND:20260905T230000Z
-SUMMARY:Kemo The Blaxican (Latin-Hip Hop/USA)
-DESCRIPTION:Kemo The Blaxican live im Hemperium zur Kulturnacht.
-URL:https://www.hemperium.de/events/
-LOCATION:Hemperium\, Ulm
-CATEGORIES:CONCERT,HIPHOP
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-12-broken-fest-action
-DTSTAMP:20260825T120000Z
-DTSTART:20260912T180000Z
-DTEND:20260912T230000Z
-SUMMARY:The Broken Fest: Punkrock Festival
-DESCRIPTION:The Broken Fest mit Überyou\, Agent Shit\, Puke\, Deadends\, Küste\, Baits.
+UID:ulm-event-2026-09-12-broken-fest
+DTSTAMP:20260905T120000Z
+DTSTART:20260912T180000
+DTEND:20260912T230000
+SUMMARY:The Broken Fest
+DESCRIPTION:Punkrock-Festival mit Ueberyou\, Agent Shit\, Puke\, Deadends\, Kueste und Baits.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Club Action\, Ulm
 CATEGORIES:CONCERT,PUNK,FESTIVAL
@@ -45,9 +33,9 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:ulm-event-2026-09-12-techno-fortress
-DTSTAMP:20260825T120000Z
-DTSTART:20260912T210000Z
-DTEND:20260913T050000Z
+DTSTAMP:20260905T120000Z
+DTSTART:20260912T210000
+DTEND:20260913T050000
 SUMMARY:Techno Fortress
 DESCRIPTION:Techno-Event im Club Action Ulm.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
@@ -56,525 +44,483 @@ CATEGORIES:CONCERT,TECHNO
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-12-kulturstadel-daniel-unger
-DTSTAMP:20260825T120000Z
-DTSTART:20260912T190000Z
-DTEND:20260912T220000Z
-SUMMARY:Daniel Earl Unger - Acoustic Rock Folk Blues
-DESCRIPTION:Acoustic-Rock-Folk-Blues Konzert im Kulturstadel Hüttisheim.
+UID:ulm-event-2026-09-12-punkrock-halleluja
+DTSTAMP:20260905T120000Z
+DTSTART:20260912T190000
+DTEND:20260912T230000
+SUMMARY:Punkrock Halleluja
+DESCRIPTION:Konzert mit Sick Of Society\, GenN und Karamurat.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Kulturstadel Hüttisheim
-CATEGORIES:CONCERT,ACOUSTIC
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-13-jazz-quartet-stadthaus
-DTSTAMP:20260825T120000Z
-DTSTART:20260913T190000Z
-DTEND:20260913T220000Z
-SUMMARY:Eva Klesse Quartett (Modern-Jazz)
-DESCRIPTION:Eva Klesse Quartett spielt Modern-Jazz im Stadthaus Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Stadthaus\, Ulm
-CATEGORIES:CONCERT,JAZZ
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-14-stadtbibliothek
-DTSTAMP:20260825T120000Z
-DTSTART:20260914T180000Z
-DTEND:20260914T210000Z
-SUMMARY:Knudsen Fessele Streit Trio (Jazz)
-DESCRIPTION:Konzert mit Knudsen Fessele Streit Trio - Jazz.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Stadthaus\, Ulm
-CATEGORIES:CONCERT,JAZZ
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-17-gold-hayley-reardon
-DTSTAMP:20260825T120000Z
-DTSTART:20260917T183000Z
-DTEND:20260917T220000Z
-SUMMARY:Hayley Reardon & Judit Neddermann
-DESCRIPTION:Singer-Songwriterinnen aus USA & Spanien live im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
-CATEGORIES:CONCERT,SINGER-SONGWRITER
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-19-gold-kulturnacht
-DTSTAMP:20260825T120000Z
-DTSTART:20260919T183000Z
-DTEND:20260919T230000Z
-SUMMARY:KulturNacht: Aloha from Gagglyworld
-DESCRIPTION:Aloha from Gagglyworld live zur Kulturnacht im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
-CATEGORIES:CONCERT,KULTURNACHT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-19-kulturnacht-ulm
-DTSTAMP:20260825T120000Z
-DTSTART:20260919T160000Z
-DTEND:20260920T020000Z
-SUMMARY:KulturNacht Ulm/Neu-Ulm 2026
-DESCRIPTION:KulturNacht Ulm und Neu-Ulm mit Musik\, Kunst und Kultur in über 60 Locations. Programm bei Hemperium (Tonphobie)\, Aegis (Polansky vs Langman\, Die Kabeltrommel)\, und vielen weiteren Veranstaltungsorten.
-URL:https://www.hemperium.de/events/
-LOCATION:Ulm & Neu-Ulm (verschiedene Locations)
-CATEGORIES:FESTIVAL,KULTURNACHT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-19-roxy-kissin-dynamite
-DTSTAMP:20260825T120000Z
-DTSTART:20260919T190000Z
-DTEND:20260919T230000Z
-SUMMARY:Kissin' Dynamite (Hardrock)
-DESCRIPTION:Kissin' Dynamite live im Roxy Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Roxy\, Ulm
-CATEGORIES:CONCERT,ROCK
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-23-florian-wagner
-DTSTAMP:20260825T120000Z
-DTSTART:20260923T190000Z
-DTEND:20260923T220000Z
-SUMMARY:Florian Wagner (Musikkabarett)
-DESCRIPTION:Musikkabarett mit Florian Wagner im Stadthaus Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Stadthaus\, Ulm
-CATEGORIES:CONCERT,KABARETT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-24-gold-btb
-DTSTAMP:20260825T120000Z
-DTSTART:20260924T193000Z
-DTEND:20260924T230000Z
-SUMMARY:Between The Bars
-DESCRIPTION:Between The Bars live im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
-CATEGORIES:CONCERT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-09-25-gold-low-life
-DTSTAMP:20260825T120000Z
-DTSTART:20260925T193000Z
-DTEND:20260925T230000Z
-SUMMARY:Low Life Rich Kids (Punk-Pop/A)
-DESCRIPTION:Low Life Rich Kids aus Österreich live im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
+LOCATION:Bonanzbar\, Neu-Ulm-Ludwigsfeld
 CATEGORIES:CONCERT,PUNK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-25-roxy-madsen
-DTSTAMP:20260825T120000Z
-DTSTART:20260925T190000Z
-DTEND:20260925T230000Z
-SUMMARY:Madsen (Alternative-Rock) - AUSVERKAUFT
-DESCRIPTION:Madsen Alternative-Rock Konzert im Roxy Ulm - ausverkauft!
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Roxy\, Ulm
-CATEGORIES:CONCERT,ROCK
+UID:ulm-event-2026-09-19-kulturnacht-aegis
+DTSTAMP:20260905T120000Z
+DTSTART:20260919T190000
+DTEND:20260920T010000
+SUMMARY:Kulturnacht: Polanski vs Langman und Die Kabeltrommel
+DESCRIPTION:Psychedelic-Sound und Synthi-Pop im Aegis Cafe zur Kulturnacht Ulm/Neu-Ulm.
+URL:https://aegis-literatur.buchhandlung.de/shop/magazine/152252/veranstaltungen.html
+LOCATION:Aegis Cafe\, Ulm
+CATEGORIES:CONCERT,KULTURNACHT
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-25-aegis-frau-lehmann
-DTSTAMP:20260825T120000Z
-DTSTART:20260925T183000Z
-DTEND:20260925T213000Z
-SUMMARY:Frau Lehmann (Leipzig)
-DESCRIPTION:FRAU LEHMANN Quartett aus Leipzig spielt Indie-Rock im Aegis Cafe.
+UID:ulm-event-2026-09-19-kulturnacht-hemperium
+DTSTAMP:20260905T120000Z
+DTSTART:20260919T190000
+DTEND:20260920T010000
+SUMMARY:Kulturnacht: Tonphobie
+DESCRIPTION:Alternative-Rock im Hemperium zur Kulturnacht Ulm/Neu-Ulm.
+URL:https://www.hemperium.de/event/kulturnacht-ulm-neu-ulm/
+LOCATION:Hemperium\, Ulm
+CATEGORIES:CONCERT,ROCK,KULTURNACHT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-kulturnacht-stadthaus
+DTSTAMP:20260905T120000Z
+DTSTART:20260919T190000
+DTEND:20260920T010000
+SUMMARY:Kulturnacht: Knudsen Fessele Streit Trio
+DESCRIPTION:Jazz-Konzert im Stadthaus zur Kulturnacht Ulm/Neu-Ulm.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+CATEGORIES:CONCERT,JAZZ,KULTURNACHT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-aloha-gagglyworld
+DTSTAMP:20260905T120000Z
+DTSTART:20260919T193000
+DTEND:20260919T230000
+SUMMARY:Aloha From Gagglyworld
+DESCRIPTION:Freaky-Garage-Space-Rock zur Kulturnacht.
+URL:https://dasgold.org/gagglyworld.html
+LOCATION:Das Gold\, Neu-Ulm
+CATEGORIES:CONCERT,ROCK,KULTURNACHT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-19-kissin-dynamite
+DTSTAMP:20260905T120000Z
+DTSTART:20260919T190000
+DTEND:20260919T230000
+SUMMARY:Kissin' Dynamite
+DESCRIPTION:Hardrock-Konzert im Rahmen der The Big Goodbye Tour.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Ratiopharm-Arena\, Neu-Ulm
+CATEGORIES:CONCERT,HARDROCK
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-25-frau-lehmann
+DTSTAMP:20260905T120000Z
+DTSTART:20260925T183000
+DTEND:20260925T213000
+SUMMARY:Frau Lehmann
+DESCRIPTION:Indie-Rock aus Leipzig.
 URL:https://aegis-literatur.buchhandlung.de/shop/magazine/152252/veranstaltungen.html
 LOCATION:Aegis Cafe\, Ulm
 CATEGORIES:CONCERT,INDIE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-26-weed-mit-beat-hemperium
-DTSTAMP:20260825T120000Z
-DTSTART:20260926T190000Z
-DTEND:20260926T230000Z
+UID:ulm-event-2026-09-25-low-life-rich-kids
+DTSTAMP:20260905T120000Z
+DTSTART:20260925T193000
+DTEND:20260925T230000
+SUMMARY:Low Life Rich Kids
+DESCRIPTION:Punk-Pop aus Oesterreich.
+URL:https://dasgold.org/llrk.html
+LOCATION:Das Gold\, Neu-Ulm
+CATEGORIES:CONCERT,PUNK
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-25-madsen
+DTSTAMP:20260905T120000Z
+DTSTART:20260925T190000
+DTEND:20260925T230000
+SUMMARY:Madsen
+DESCRIPTION:Alternative-Rock-Konzert im Roxy.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+CATEGORIES:CONCERT,ROCK
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-09-26-weed-mit-beat
+DTSTAMP:20260905T120000Z
+DTSTART:20260926T190000
+DTEND:20260926T230000
 SUMMARY:Weed mit Beat
-DESCRIPTION:Weed mit Beat - Konzert im Hemperium Ulm.
-URL:https://www.hemperium.de/events/
+DESCRIPTION:Konzert im Hemperium Ulm.
+URL:https://www.hemperium.de/event/weed-mit-beat-2/
 LOCATION:Hemperium\, Ulm
 CATEGORIES:CONCERT
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-09-29-roxy-axel-rudi-pell
-DTSTAMP:20260825T120000Z
-DTSTART:20260929T190000Z
-DTEND:20260929T230000Z
-SUMMARY:Axel Rudi Pell (Metal)
-DESCRIPTION:Axel Rudi Pell Metal-Konzert im Roxy Ulm.
+UID:ulm-event-2026-09-29-axel-rudi-pell
+DTSTAMP:20260905T120000Z
+DTSTART:20260929T190000
+DTEND:20260929T230000
+SUMMARY:Axel Rudi Pell
+DESCRIPTION:Metal-Konzert im Roxy.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Roxy\, Ulm
 CATEGORIES:CONCERT,METAL
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-01-retsu-hemperium
-DTSTAMP:20260825T120000Z
-DTSTART:20261001T190000Z
-DTEND:20261001T230000Z
-SUMMARY:Retsu (Hardcore-Punk/GB) + Fuckery
-DESCRIPTION:Retsu aus UK mit Support Fuckery im Hemperium.
-URL:https://www.hemperium.de/events/
+UID:ulm-event-2026-10-01-retsu
+DTSTAMP:20260905T120000Z
+DTSTART:20261001T190000
+DTEND:20261001T230000
+SUMMARY:Retsu + Fuckery
+DESCRIPTION:Hardcore-Punk aus Grossbritannien mit Support Fuckery.
+URL:https://www.hemperium.de/event/retsu-fuckery/
 LOCATION:Hemperium\, Ulm
 CATEGORIES:CONCERT,PUNK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-02-gold-country-friday
-DTSTAMP:20260825T120000Z
-DTSTART:20261002T193000Z
-DTEND:20261002T230000Z
+UID:ulm-event-2026-10-02-country-friday
+DTSTAMP:20260905T120000Z
+DTSTART:20261002T193000
+DTEND:20261002T230000
 SUMMARY:Country Friday - Zani & The New Ulm Blue Jays
-DESCRIPTION:Country Friday mit Zani & The New Ulm Blue Jays im Gold.
-URL:https://dasgold.org/concerts.html
+DESCRIPTION:Country-Konzert im Gold.
+URL:https://dasgold.org/country_friday.html
 LOCATION:Das Gold\, Neu-Ulm
 CATEGORIES:CONCERT,COUNTRY
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-03-roxy-christian-ehring
-DTSTAMP:20260825T120000Z
-DTSTART:20261003T190000Z
-DTEND:20261003T220000Z
-SUMMARY:Christian Ehring (Kabarett)
-DESCRIPTION:Christian Ehring Kabarett im Roxy Ulm.
+UID:ulm-event-2026-10-03-fogdriver-black-cats-eye
+DTSTAMP:20260905T120000Z
+DTSTART:20261003T190000
+DTEND:20261003T230000
+SUMMARY:Fogdriver & The Black Cat's Eye
+DESCRIPTION:Psychedelic-Stoner-Rock.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Roxy\, Ulm
-CATEGORIES:CONCERT,KABARETT
+LOCATION:Hexenhaus\, Ulm
+CATEGORIES:CONCERT,ROCK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-03-wanted-fort
-DTSTAMP:20260825T120000Z
-DTSTART:20261003T190000Z
-DTEND:20261003T230000Z
-SUMMARY:Wanted (Cover-Rock)
-DESCRIPTION:Wanted Cover-Rock im Fort Unterer Eselsberg.
+UID:ulm-event-2026-10-03-wanted
+DTSTAMP:20260905T120000Z
+DTSTART:20261003T190000
+DTEND:20261003T230000
+SUMMARY:Wanted
+DESCRIPTION:Cover-Rock im Fort Unterer Eselsberg.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Fort Unterer Eselsberg\, Ulm
 CATEGORIES:CONCERT,ROCK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-08-soap-girls-hemperium
-DTSTAMP:20260825T120000Z
-DTSTART:20261008T190000Z
-DTEND:20261008T230000Z
-SUMMARY:The Soap Girls (Garage-Punk/ZAF) + Orange
-DESCRIPTION:The Soap Girls aus Südafrika mit Support Orange im Hemperium.
-URL:https://www.hemperium.de/events/
+UID:ulm-event-2026-10-03-90s-super-show
+DTSTAMP:20260905T120000Z
+DTSTART:20261003T190000
+DTEND:20261003T230000
+SUMMARY:90s Super Show
+DESCRIPTION:Pop-Show mit Lou Bega\, Oli P\, Loona\, Bellini\, Whigfield\, Masterboy und weiteren Acts.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Ratiopharm-Arena\, Neu-Ulm
+CATEGORIES:CONCERT,POP
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-08-soap-girls
+DTSTAMP:20260905T120000Z
+DTSTART:20261008T190000
+DTEND:20261008T230000
+SUMMARY:The Soap Girls + Orange
+DESCRIPTION:Garage-Punk aus Suedafrika mit Support Orange.
+URL:https://www.hemperium.de/event/the-soap-girls-3/
 LOCATION:Hemperium\, Ulm
 CATEGORIES:CONCERT,PUNK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-09-gold-framewalkers
-DTSTAMP:20260825T120000Z
-DTSTART:20261009T193000Z
-DTEND:20261009T230000Z
-SUMMARY:Framewalkers (Indie-Rock/Shoegaze)
-DESCRIPTION:Framewalkers spielen Indie-Rock/Shoegaze im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
+UID:ulm-event-2026-10-09-framewalkers
+DTSTAMP:20260905T120000Z
+DTSTART:20261009T193000
+DTEND:20261009T230000
+SUMMARY:Framewalkers
+DESCRIPTION:Indie-Rock und Shoegaze.
+URL:https://dasgold.org/framewalkers.html
 LOCATION:Das Gold\, Neu-Ulm
 CATEGORIES:CONCERT,INDIE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-09-hemperium-die-autos
-DTSTAMP:20260825T120000Z
-DTSTART:20261009T190000Z
-DTEND:20261009T230000Z
-SUMMARY:die AUTOS (Indie-Rock) + KÜSTE
-DESCRIPTION:die AUTOS mit Support KÜSTE im Hemperium Ulm.
-URL:https://www.hemperium.de/events/
+UID:ulm-event-2026-10-09-die-autos
+DTSTAMP:20260905T120000Z
+DTSTART:20261009T190000
+DTEND:20261009T230000
+SUMMARY:die AUTOS + KUESTE
+DESCRIPTION:Indie-Rock mit Support KUESTE.
+URL:https://www.hemperium.de/event/die-autos-kueste/
 LOCATION:Hemperium\, Ulm
 CATEGORIES:CONCERT,INDIE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-09-stadthaus-burak-cebi
-DTSTAMP:20260825T120000Z
-DTSTART:20261009T190000Z
-DTEND:20261009T220000Z
-SUMMARY:Burak Çebi (Musik von Ludovico Einaudi)
-DESCRIPTION:Burak Çebi spielt Musik von Ludovico Einaudi im Stadthaus.
+UID:ulm-event-2026-10-09-burak-cebi
+DTSTAMP:20260905T120000Z
+DTSTART:20261009T190000
+DTEND:20261009T220000
+SUMMARY:Burak Cebi
+DESCRIPTION:Musik von Ludovico Einaudi.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Stadthaus\, Ulm
 CATEGORIES:CONCERT,CLASSICAL
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-09-aegis-format
-DTSTAMP:20260825T120000Z
-DTSTART:20261009T183000Z
-DTEND:20261009T213000Z
-SUMMARY:Das Format (Post-Rock)
-DESCRIPTION:Das Format spielt Post-Rock im Aegis Cafe Ulm.
+UID:ulm-event-2026-10-09-das-format
+DTSTAMP:20260905T120000Z
+DTSTART:20261009T183000
+DTEND:20261009T213000
+SUMMARY:Das Format
+DESCRIPTION:Post-Rock-Konzert.
 URL:https://aegis-literatur.buchhandlung.de/shop/magazine/152252/veranstaltungen.html
 LOCATION:Aegis Cafe\, Ulm
 CATEGORIES:CONCERT,POST-ROCK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-10-roxy-popchor
-DTSTAMP:20260825T120000Z
-DTSTART:20261010T190000Z
-DTEND:20261010T220000Z
-SUMMARY:Popchor Ulm - AUSVERKAUFT
-DESCRIPTION:Popchor Ulm Konzert im Roxy - ausverkauft!
+UID:ulm-event-2026-10-10-popchor-ulm
+DTSTAMP:20260905T120000Z
+DTSTART:20261010T190000
+DTEND:20261010T220000
+SUMMARY:Popchor Ulm
+DESCRIPTION:Konzert des Popchors Ulm.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Roxy\, Ulm
 CATEGORIES:CONCERT,CHOIR
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-11-stadthaus-arbenz-quartet
-DTSTAMP:20260825T120000Z
-DTSTART:20261011T190000Z
-DTEND:20261011T220000Z
-SUMMARY:Florian Arbenz Quartett feat. Greg Osby (Modern-Jazz)
-DESCRIPTION:Florian Arbenz Quartett mit Greg Osby - Modern-Jazz im Stadthaus.
+UID:ulm-event-2026-10-11-florian-arbenz
+DTSTAMP:20260905T120000Z
+DTSTART:20261011T190000
+DTEND:20261011T220000
+SUMMARY:Florian Arbenz Quartett feat. Greg Osby
+DESCRIPTION:Modern-Jazz mit Greg Osby.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Stadthaus\, Ulm
 CATEGORIES:CONCERT,JAZZ
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-13-roxy-subways
-DTSTAMP:20260825T120000Z
-DTSTART:20261013T190000Z
-DTEND:20261013T230000Z
-SUMMARY:The Subways (Alternative-Rock/GB)
-DESCRIPTION:The Subways aus UK spielen Alternative-Rock im Roxy.
+UID:ulm-event-2026-10-13-the-subways
+DTSTAMP:20260905T120000Z
+DTSTART:20261013T190000
+DTEND:20261013T230000
+SUMMARY:The Subways
+DESCRIPTION:Alternative-Rock aus Grossbritannien.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Roxy\, Ulm
 CATEGORIES:CONCERT,ROCK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-15-gold-nightingales
-DTSTAMP:20260825T120000Z
-DTSTART:20261015T193000Z
-DTEND:20261015T230000Z
-SUMMARY:The Nightingales (Post-Rock/GB)
-DESCRIPTION:The Nightingales aus Birmingham spielen Post-Rock im Gold.
-URL:https://dasgold.org/concerts.html
+UID:ulm-event-2026-10-15-the-nightingales
+DTSTAMP:20260905T120000Z
+DTSTART:20261015T193000
+DTEND:20261015T230000
+SUMMARY:The Nightingales
+DESCRIPTION:Post-Rock aus Grossbritannien.
+URL:https://dasgold.org/the_nightingales.html
 LOCATION:Das Gold\, Neu-Ulm
 CATEGORIES:CONCERT,POST-ROCK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-16-aegis-moravek
-DTSTAMP:20260825T120000Z
-DTSTART:20261016T183000Z
-DTEND:20261016T213000Z
-SUMMARY:Michael Moravek & Electric Traveling Show (Americana)
-DESCRIPTION:Michael Moravek & Electric Traveling Show spielen Singer-Songwriter/Americana im Aegis Cafe.
-URL:https://aegis-literatur.buchhandlung.de/shop/magazine/152252/veranstaltungen.html
-LOCATION:Aegis Cafe\, Ulm
-CATEGORIES:CONCERT,AMERICANA
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-10-17-hemperium-chanson-trottoir
-DTSTAMP:20260825T120000Z
-DTSTART:20261017T190000Z
-DTEND:20261017T230000Z
-SUMMARY:Chanson Trottoir & FLAWI (Worldmusic)
-DESCRIPTION:Chanson Trottoir mit FLAWI - Chansons/Worldmusic im Hemperium.
-URL:https://www.hemperium.de/events/
+UID:ulm-event-2026-10-17-chanson-trottoir
+DTSTAMP:20260905T120000Z
+DTSTART:20261017T190000
+DTEND:20261017T230000
+SUMMARY:Chanson Trottoir & FLAWI
+DESCRIPTION:Chansons und Worldmusic.
+URL:https://www.hemperium.de/event/chanson-trottoir/
 LOCATION:Hemperium\, Ulm
 CATEGORIES:CONCERT,WORLDMUSIC
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-17-fort-mixtape
-DTSTAMP:20260825T120000Z
-DTSTART:20261017T190000Z
-DTEND:20261017T230000Z
-SUMMARY:Mixtape (Cover-Rock)
-DESCRIPTION:Mixtape spielt Cover-Rock im Fort Unterer Eselsberg.
+UID:ulm-event-2026-10-17-podridao
+DTSTAMP:20260905T120000Z
+DTSTART:20261017T190000
+DTEND:20261017T230000
+SUMMARY:Podridao + Belligerence + Corpserot
+DESCRIPTION:Metal-Konzert.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Hexenhaus\, Ulm
+CATEGORIES:CONCERT,METAL
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ulm-event-2026-10-17-mixtape
+DTSTAMP:20260905T120000Z
+DTSTART:20261017T190000
+DTEND:20261017T230000
+SUMMARY:Mixtape
+DESCRIPTION:Cover-Rock im Fort Unterer Eselsberg.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Fort Unterer Eselsberg\, Ulm
 CATEGORIES:CONCERT,ROCK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-17-bonanzbar-orange
-DTSTAMP:20260825T120000Z
-DTSTART:20261017T190000Z
-DTEND:20261017T230000Z
-SUMMARY:Orange (Punkrock)
-DESCRIPTION:Orange spielt Punkrock in der Bonanzbar Neu-Ulm.
-URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Bonanzbar\, Neu-Ulm
-CATEGORIES:CONCERT,PUNK
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-10-20-roxy-dame
-DTSTAMP:20260825T120000Z
-DTSTART:20261020T190000Z
-DTEND:20261020T230000Z
-SUMMARY:Dame (Hip Hop)
-DESCRIPTION:Dame Hip Hop Konzert im Roxy Ulm.
+UID:ulm-event-2026-10-20-dame
+DTSTAMP:20260905T120000Z
+DTSTART:20261020T190000
+DTEND:20261020T230000
+SUMMARY:Dame
+DESCRIPTION:Hip-Hop-Konzert im Roxy.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Roxy\, Ulm
 CATEGORIES:CONCERT,HIPHOP
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-22-stadthaus-quadro-nuevo
-DTSTAMP:20260825T120000Z
-DTSTART:20261022T190000Z
-DTEND:20261022T220000Z
-SUMMARY:Quadro Nuevo (Weltmusik)
-DESCRIPTION:Quadro Nuevo Weltmusik-Konzert im Stadthaus Ulm.
+UID:ulm-event-2026-10-22-quadro-nuevo
+DTSTAMP:20260905T120000Z
+DTSTART:20261022T190000
+DTEND:20261022T230000
+SUMMARY:Quadro Nuevo
+DESCRIPTION:Weltmusik-Konzert.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
-LOCATION:Stadthaus\, Ulm
+LOCATION:Roxy\, Ulm
 CATEGORIES:CONCERT,WORLDMUSIC
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-22-gold-btb
-DTSTAMP:20260825T120000Z
-DTSTART:20261022T193000Z
-DTEND:20261022T230000Z
-SUMMARY:Between The Bars
-DESCRIPTION:Between The Bars live im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
-CATEGORIES:CONCERT
+UID:ulm-event-2026-10-22-rosario-giuliani
+DTSTAMP:20260905T120000Z
+DTSTART:20261022T190000
+DTEND:20261022T220000
+SUMMARY:Rosario Giuliani & Luciano Biondini
+DESCRIPTION:World-Jazz-Konzert im Stadthaus.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+CATEGORIES:CONCERT,JAZZ
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-23-hemperium-zwackelmann
-DTSTAMP:20260825T120000Z
-DTSTART:20261023T190000Z
-DTEND:20261023T230000Z
-SUMMARY:Zwackelmann (Punkrock) + Andreas Kalb
-DESCRIPTION:Zwackelmann mit Support Andreas Kalb im Hemperium Ulm.
-URL:https://www.hemperium.de/events/
+UID:ulm-event-2026-10-23-zwakkelmann
+DTSTAMP:20260905T120000Z
+DTSTART:20261023T190000
+DTEND:20261023T230000
+SUMMARY:Zwakkelmann + Andreas Kalb
+DESCRIPTION:Punkrock-Konzert.
+URL:https://www.hemperium.de/event/zwackelmann-andreas-kalb/
 LOCATION:Hemperium\, Ulm
 CATEGORIES:CONCERT,PUNK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-23-gold-all-indie
-DTSTAMP:20260825T120000Z
-DTSTART:20261023T193000Z
-DTEND:20261023T230000Z
-SUMMARY:All Indie
-DESCRIPTION:All Indie DJ-Set im Gold Neu-Ulm.
-URL:https://dasgold.org/concerts.html
-LOCATION:Das Gold\, Neu-Ulm
-CATEGORIES:CONCERT,DJ
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ulm-event-2026-10-24-roxy-musa-dagh
-DTSTAMP:20260825T120000Z
-DTSTART:20261024T190000Z
-DTEND:20261024T230000Z
-SUMMARY:Musa Dag'h (Alternative-Rock)
-DESCRIPTION:Musa Dag'h Alternative-Rock Konzert im Roxy Ulm.
+UID:ulm-event-2026-10-24-musa-dagh
+DTSTAMP:20260905T120000Z
+DTSTART:20261024T190000
+DTEND:20261024T230000
+SUMMARY:Musa Dagh
+DESCRIPTION:Alternative-Rock-Konzert.
 URL:https://www.hinterland-rocks.de/clubland/ulm/
 LOCATION:Roxy\, Ulm
 CATEGORIES:CONCERT,ROCK
 END:VEVENT
 
-END:VCALENDAR
-URL:https://www.kulturnacht-ulm.de/
-LOCATION:Ulm und Neu-Ulm (verschiedene Locations)
-CATEGORIES:CULTURE,FESTIVAL,CONCERT,ART
+BEGIN:VEVENT
+UID:ulm-event-2026-10-27-kochkraft
+DTSTAMP:20260905T120000Z
+DTSTART:20261027T190000
+DTEND:20261027T230000
+SUMMARY:Kochkraft durch KMA
+DESCRIPTION:Electro-Punk im Club Schilli.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Club Schilli\, Ulm
+CATEGORIES:CONCERT,ELECTRO,PUNK
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-08-soap-girls-hemperium
-DTSTAMP:20260805T120000Z
-DTSTART:20261008T190000Z
-DTEND:20261008T220000Z
-SUMMARY:the Soap Girls\, Orange - Hemperium Ulm
-DESCRIPTION:the Soap Girls und Orange live im Hemperium Ulm.
-URL:https://www.hemperium.de/?post_type=tribe_events
-LOCATION:Hemperium\, Ulm
-CATEGORIES:CONCERT
+UID:ulm-event-2026-10-29-joo-kraus
+DTSTAMP:20260905T120000Z
+DTSTART:20261029T190000
+DTEND:20261029T220000
+SUMMARY:Joo Kraus & Jazzchor Freiburg
+DESCRIPTION:Fusion- und Vokal-Jazz.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+CATEGORIES:CONCERT,JAZZ
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-09-die-autos-hemperium
-DTSTAMP:20260805T120000Z
-DTSTART:20261009T190000Z
-DTEND:20261009T220000Z
-SUMMARY:die AUTOS / KÜSTE - Hemperium Ulm
-DESCRIPTION:die AUTOS und KÜSTE live im Hemperium Ulm.
-URL:https://www.hemperium.de/?post_type=tribe_events
-LOCATION:Hemperium\, Ulm
-CATEGORIES:CONCERT
+UID:ulm-event-2026-10-30-jazzfest
+DTSTAMP:20260905T120000Z
+DTSTART:20261030T190000
+DTEND:20261030T230000
+SUMMARY:50 Jahre Verein fuer moderne Musik: Riessler, Melozzi & Riessler Trio
+DESCRIPTION:Modern-Jazz-Konzert im Stadthaus.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+CATEGORIES:CONCERT,JAZZ
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-17-chanson-trottoir-hemperium
-DTSTAMP:20260805T120000Z
-DTSTART:20261017T190000Z
-DTEND:20261017T220000Z
-SUMMARY:Chanson Trottoir - Hemperium Ulm
-DESCRIPTION:Chanson Trottoir live im Hemperium Ulm.
-URL:https://www.hemperium.de/?post_type=tribe_events
-LOCATION:Hemperium\, Ulm
-CATEGORIES:CONCERT,CHANSON
+UID:ulm-event-2026-10-31-james-carter
+DTSTAMP:20260905T120000Z
+DTSTART:20261031T190000
+DTEND:20261031T230000
+SUMMARY:Tribute To John Coltrane: James Carter Organ Trio
+DESCRIPTION:Modern-Jazz-Konzert im Stadthaus.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Stadthaus\, Ulm
+CATEGORIES:CONCERT,JAZZ
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-23-zwackelmann-hemperium
-DTSTAMP:20260805T120000Z
-DTSTART:20261023T190000Z
-DTEND:20261023T220000Z
-SUMMARY:Zwackelmann\, Andreas Kalb - Hemperium Ulm
-DESCRIPTION:Zwackelmann und Andreas Kalb live im Hemperium Ulm.
-URL:https://www.hemperium.de/?post_type=tribe_events
-LOCATION:Hemperium\, Ulm
-CATEGORIES:CONCERT
+UID:ulm-event-2026-10-31-turmrauschen
+DTSTAMP:20260905T120000Z
+DTSTART:20261031T220000
+DTEND:20261101T050000
+SUMMARY:Turmrauschen - Halloween Rave
+DESCRIPTION:Halloween-Rave auf der Wilhelmsburg.
+URL:https://www.die-wilhelmsburg.de/event/turmrauschen-halloween-rave/
+LOCATION:Wilhelmsburg\, Ulm
+CATEGORIES:CONCERT,RAVE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-24-geschlossene-gesellschaft-hemperium
-DTSTAMP:20260805T120000Z
-DTSTART:20261024T190000Z
-DTEND:20261024T220000Z
-SUMMARY:Geschlossene Gesellschaft - Hemperium Ulm
-DESCRIPTION:Geschlossene Gesellschaft live im Hemperium Ulm.
-URL:https://www.hemperium.de/?post_type=tribe_events
-LOCATION:Hemperium\, Ulm
-CATEGORIES:CONCERT
+UID:ulm-event-2026-11-02-lords-of-the-sound
+DTSTAMP:20260905T120000Z
+DTSTART:20261102T190000
+DTEND:20261102T220000
+SUMMARY:Lords Of The Sound
+DESCRIPTION:Musik von Hans Zimmer.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Congress Centrum Ulm
+CATEGORIES:CONCERT,ORCHESTRA
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ulm-event-2026-10-31-halloween-wilhelmsburg
-DTSTAMP:20260805T120000Z
-DTSTART:20261031T200000Z
-DTEND:20261101T030000Z
-SUMMARY:Turmrauschen - Halloween Rave - Die Wilhelmsburg
-DESCRIPTION:Turmrauschen - Halloween Rave an der Wilhelmsburg Ulm. Electronic Music Event.
-URL:https://www.die-wilhelmsburg.de/events/
-LOCATION:Die Wilhelmsburg\, Ulm
-CATEGORIES:PARTY,ELECTRONIC,HALLOWEEN
+UID:ulm-event-2026-11-03-mothers-cake
+DTSTAMP:20260905T120000Z
+DTSTART:20261103T190000
+DTEND:20261103T230000
+SUMMARY:Mother's Cake
+DESCRIPTION:Alternative-Rock aus Oesterreich.
+URL:https://www.hinterland-rocks.de/clubland/ulm/
+LOCATION:Roxy\, Ulm
+CATEGORIES:CONCERT,ROCK
 END:VEVENT
 
 END:VCALENDAR
