@@ -15,15 +15,20 @@ https://www.bandsintown.com/de/v/10249107-kradhalle-e.v.?came_from=253&utm_mediu
 https://www.radio7.de/zuhause/veranstaltungen
 from here only music related stuff, no sport or Landesgartenschau
 
-https://ulmerzelt.de/ 
-https://donaufest.de/ 
+<!-- https://ulmerzelt.de/ 
+https://donaufest.de/  -->
 https://www.hemperium.de/?post_type=tribe_events 
 https://www.die-wilhelmsburg.de/events/
 
-https://obstwiesenfestival.de/ 
+<!-- https://obstwiesenfestival.de/ 
 https://www.schwoermontag.com/ 
-https://www.schwoermontag.com/kalender/
+https://www.schwoermontag.com/kalender/ -->
 https://aegis-literatur.buchhandlung.de/shop/magazine/152252/veranstaltungen.html
 take from here only concerts
 
+https://www.urknall-weltall-leben.de/vortraege.html
+from this page all
+
+<!-- https://rausgegangen.de/locations/donau-film-und-sterne-open-air-kino/ -->
+<!-- https://www.kinoprogramm.com/kino/ulm/open-air-kino-in-der-wilhelmsburg-91970 -->
 
