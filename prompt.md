@@ -15,6 +15,8 @@ https://www.bandsintown.com/de/v/10249107-kradhalle-e.v.?came_from=253&utm_mediu
 https://www.radio7.de/zuhause/veranstaltungen
 from here only music related stuff, no sport or Landesgartenschau
 
+https://www.sauschdall.de/
+
 <!-- https://ulmerzelt.de/ 
 https://donaufest.de/  -->
 https://www.hemperium.de/?post_type=tribe_events 
@@ -25,6 +27,8 @@ https://www.schwoermontag.com/
 https://www.schwoermontag.com/kalender/ -->
 https://aegis-literatur.buchhandlung.de/shop/magazine/152252/veranstaltungen.html
 take from here only concerts
+
+
 
 https://www.urknall-weltall-leben.de/vortraege.html
 from this page all
